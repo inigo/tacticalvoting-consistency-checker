@@ -1,0 +1,651 @@
+Code,Constituency name,Recommendation
+E14001063,Aldershot,Labour
+E14001064,Aldridge-Brownhills,Labour
+E14001065,Altrincham and Sale West,Labour
+E14001066,Amber Valley,Labour
+E14001067,Arundel and South Downs,TBC
+E14001068,Ashfield,Labour
+E14001069,Ashford,Labour
+E14001070,Ashton-under-Lyne,Labour
+E14001071,Aylesbury,Labour
+E14001072,Banbury,Labour
+E14001073,Barking,Any
+E14001074,Barnsley North,Labour
+E14001075,Barnsley South,Labour
+E14001076,Barrow and Furness,Labour
+E14001077,Basildon and Billericay,Labour
+E14001078,Basingstoke,Labour
+E14001079,Bassetlaw,Labour
+E14001080,Bath,Lib Dem
+E14001081,Battersea,Labour
+E14001082,Beaconsfield,Labour
+E14001083,Beckenham and Penge,Labour
+E14001084,Bedford,Labour
+E14001085,Bermondsey and Old Southwark,Any
+E14001086,Bethnal Green and Stepney,Labour
+E14001087,Beverley and Holderness,Labour
+E14001088,Bexhill and Battle,Labour
+E14001089,Bexleyheath and Crayford,Labour
+E14001090,Bicester and Woodstock,TBC
+E14001091,Birkenhead,Any
+E14001092,Birmingham Edgbaston,Labour
+E14001093,Birmingham Erdington,Labour
+E14001094,Birmingham Hall Green and Moseley,Labour
+E14001095,Birmingham Hodge Hill and Solihull North,Labour
+E14001096,Birmingham Ladywood,Labour
+E14001097,Birmingham Northfield,Labour
+E14001098,Birmingham Perry Barr,Any
+E14001099,Birmingham Selly Oak,Labour
+E14001100,Birmingham Yardley,Any
+E14001101,Bishop Auckland,Labour
+E14001102,Blackburn,Labour
+E14001103,Blackley and Middleton South,Any
+E14001104,Blackpool North and Fleetwood,Labour
+E14001105,Blackpool South,Labour
+E14001106,Blaydon and Consett,Labour
+E14001107,Blyth and Ashington,Labour
+E14001108,Bognor Regis and Littlehampton,Labour
+E14001109,Bolsover,Labour
+E14001110,Bolton North East,Labour
+E14001111,Bolton South and Walkden,Labour
+E14001112,Bolton West,Labour
+E14001113,Bootle,Any
+E14001114,Boston and Skegness,Labour
+E14001115,Bournemouth East,Labour
+E14001116,Bournemouth West,Labour
+E14001117,Bracknell,Labour
+E14001118,Bradford East,Labour
+E14001119,Bradford South,Labour
+E14001120,Bradford West,Labour
+E14001121,Braintree,Labour
+E14001122,Brent East,Any
+E14001123,Brent West,Labour
+E14001124,Brentford and Isleworth,Any
+E14001125,Brentwood and Ongar,Labour
+E14001126,Bridgwater,Labour
+E14001127,Bridlington and The Wolds,Labour
+E14001128,Brigg and Immingham,Labour
+E14001129,Brighton Kemptown and Peacehaven,Labour
+E14001130,Brighton Pavilion,Any
+E14001131,Bristol Central,Any
+E14001132,Bristol East,Any
+E14001133,Bristol North East,Labour
+E14001134,Bristol North West,Labour
+E14001135,Bristol South,Labour
+E14001136,Broadland and Fakenham,Labour
+E14001137,Bromley and Biggin Hill,Labour
+E14001138,Bromsgrove,Labour
+E14001139,Broxbourne,Labour
+E14001140,Broxtowe,Labour
+E14001141,Buckingham and Bletchley,Labour
+E14001142,Burnley,Labour
+E14001143,Burton and Uttoxeter,Labour
+E14001144,Bury North,Labour
+E14001145,Bury South,Labour
+E14001146,Bury St Edmunds and Stowmarket,Labour
+E14001147,Calder Valley,Labour
+E14001148,Camborne and Redruth,Labour
+E14001149,Cambridge,Any
+E14001150,Cannock Chase,Labour
+E14001151,Canterbury,Labour
+E14001152,Carlisle,Labour
+E14001153,Carshalton and Wallington,Lib Dem
+E14001154,Castle Point,Labour
+E14001155,Central Devon,Labour
+E14001156,Central Suffolk and North Ipswich,Labour
+E14001157,Chatham and Aylesford,Labour
+E14001158,Cheadle,Lib Dem
+E14001159,Chelmsford,TBC
+E14001160,Chelsea and Fulham,Labour
+E14001161,Cheltenham,Lib Dem
+E14001162,Chesham and Amersham,Lib Dem
+E14001163,Chester North and Neston,Labour
+E14001164,Chester South and Eddisbury,Labour
+E14001165,Chesterfield,Labour
+E14001166,Chichester,Lib Dem
+E14001167,Chingford and Woodford Green,Labour
+E14001168,Chippenham,Lib Dem
+E14001169,Chipping Barnet,Labour
+E14001170,Chorley,Any
+E14001171,Christchurch,TBC
+E14001172,Cities of London and Westminster,Labour
+E14001173,City of Durham,Labour
+E14001174,Clacton,Labour
+E14001175,Clapham and Brixton Hill,Any
+E14001176,Colchester,Labour
+E14001177,Colne Valley,Labour
+E14001178,Congleton,Labour
+E14001179,Corby and East Northamptonshire,Labour
+E14001180,Coventry East,Labour
+E14001181,Coventry North West,Labour
+E14001182,Coventry South,Labour
+E14001183,Cramlington and Killingworth,Labour
+E14001184,Crawley,Labour
+E14001185,Crewe and Nantwich,Labour
+E14001186,Croydon East,Labour
+E14001187,Croydon South,Labour
+E14001188,Croydon West,Any
+E14001189,Dagenham and Rainham,Labour
+E14001190,Darlington,Labour
+E14001191,Dartford,Labour
+E14001192,Daventry,Labour
+E14001193,Derby North,Labour
+E14001194,Derby South,Labour
+E14001195,Derbyshire Dales,Labour
+E14001196,Dewsbury and Batley,Labour
+E14001197,Didcot and Wantage,Lib Dem
+E14001198,Doncaster Central,Labour
+E14001199,Doncaster East and the Isle of Axholme,Labour
+E14001200,Doncaster North,Labour
+E14001201,Dorking and Horley,Lib Dem
+E14001202,Dover and Deal,Labour
+E14001203,Droitwich and Evesham,Labour
+E14001204,Dudley,Labour
+E14001205,Dulwich and West Norwood,Any
+E14001206,Dunstable and Leighton Buzzard,Labour
+E14001207,Ealing Central and Acton,Any
+E14001208,Ealing North,Any
+E14001209,Ealing Southall,Any
+E14001210,Earley and Woodley,Labour
+E14001211,Easington,Labour
+E14001212,East Grinstead and Uckfield,TBC
+E14001213,East Ham,Labour
+E14001214,East Hampshire,TBC
+E14001215,East Surrey,TBC
+E14001216,East Thanet,Labour
+E14001217,East Wiltshire,Labour
+E14001218,East Worthing and Shoreham,Labour
+E14001219,Eastbourne,Lib Dem
+E14001220,Eastleigh,Lib Dem
+E14001221,Edmonton and Winchmore Hill,Any
+E14001222,Ellesmere Port and Bromborough,Any
+E14001223,Eltham and Chislehurst,Labour
+E14001224,Ely and East Cambridgeshire,TBC
+E14001225,Enfield North,Labour
+E14001226,Epping Forest,Labour
+E14001227,Epsom and Ewell,TBC
+E14001228,Erewash,Labour
+E14001229,Erith and Thamesmead,Any
+E14001230,Esher and Walton,Lib Dem
+E14001231,Exeter,Any
+E14001232,Exmouth and Exeter East,TBC
+E14001233,Fareham and Waterlooville,TBC
+E14001234,Farnham and Bordon,Lib Dem
+E14001235,Faversham and Mid Kent,Labour
+E14001236,Feltham and Heston,Labour
+E14001237,Filton and Bradley Stoke,Labour
+E14001238,Finchley and Golders Green,TBC
+E14001239,Folkestone and Hythe,Labour
+E14001240,Forest of Dean,Labour
+E14001241,Frome and East Somerset,Lib Dem
+E14001242,Fylde,Labour
+E14001243,Gainsborough,Labour
+E14001244,Gateshead Central and Whickham,Labour
+E14001245,Gedling,Labour
+E14001246,Gillingham and Rainham,Labour
+E14001247,Glastonbury and Somerton,Lib Dem
+E14001248,Gloucester,Labour
+E14001249,Godalming and Ash,Lib Dem
+E14001250,Goole and Pocklington,Labour
+E14001251,Gorton and Denton,Any
+E14001252,Gosport,Labour
+E14001253,Grantham and Bourne,Labour
+E14001254,Gravesham,Labour
+E14001255,Great Grimsby and Cleethorpes,Labour
+E14001256,Great Yarmouth,Labour
+E14001257,Greenwich and Woolwich,Any
+E14001258,Guildford,Lib Dem
+E14001259,Hackney North and Stoke Newington,Any
+E14001260,Hackney South and Shoreditch,Any
+E14001261,Halesowen,Labour
+E14001262,Halifax,Labour
+E14001263,Hamble Valley,TBC
+E14001264,Hammersmith and Chiswick,Any
+E14001265,Hampstead and Highgate,Any
+E14001266,"Harborough, Oadby and Wigston",Labour
+E14001267,Harlow,Labour
+E14001268,Harpenden and Berkhamsted,Lib Dem
+E14001269,Harrogate and Knaresborough,Lib Dem
+E14001270,Harrow East,Labour
+E14001271,Harrow West,Labour
+E14001272,Hartlepool,Labour
+E14001273,Harwich and North Essex,Labour
+E14001274,Hastings and Rye,Labour
+E14001275,Havant,Labour
+E14001276,Hayes and Harlington,Labour
+E14001277,Hazel Grove,Lib Dem
+E14001278,Hemel Hempstead,Labour
+E14001279,Hendon,Labour
+E14001280,Henley and Thame,Lib Dem
+E14001281,Hereford and South Herefordshire,Labour
+E14001282,Herne Bay and Sandwich,Labour
+E14001283,Hertford and Stortford,Labour
+E14001284,Hertsmere,Labour
+E14001285,Hexham,Labour
+E14001286,Heywood and Middleton North,Labour
+E14001287,High Peak,Labour
+E14001288,Hinckley and Bosworth,TBC
+E14001289,Hitchin,Labour
+E14001290,Holborn and St Pancras,Any
+E14001291,Honiton and Sidmouth,Lib Dem
+E14001292,Hornchurch and Upminster,Labour
+E14001293,Hornsey and Friern Barnet,Any
+E14001294,Horsham,Lib Dem
+E14001295,Houghton and Sunderland South,Labour
+E14001296,Hove and Portslade,Any
+E14001297,Huddersfield,Labour
+E14001298,Huntingdon,Labour
+E14001299,Hyndburn,Labour
+E14001300,Ilford North,TBC
+E14001301,Ilford South,Labour
+E14001302,Ipswich,Labour
+E14001303,Isle of Wight East,TBC
+E14001304,Isle of Wight West,Labour
+E14001305,Islington North,Any
+E14001306,Islington South and Finsbury,Any
+E14001307,Jarrow and Gateshead East,Any
+E14001308,Keighley and Ilkley,Labour
+E14001309,Kenilworth and Southam,Labour
+E14001310,Kensington and Bayswater,Labour
+E14001311,Kettering,Labour
+E14001312,Kingston and Surbiton,Lib Dem
+E14001313,Kingston upon Hull East,Labour
+E14001314,Kingston upon Hull North and Cottingham,Labour
+E14001315,Kingston upon Hull West and Haltemprice,Labour
+E14001316,Kingswinford and South Staffordshire,Labour
+E14001317,Knowsley,Any
+E14001318,Lancaster and Wyre,Labour
+E14001319,Leeds Central and Headingley,Any
+E14001320,Leeds East,Labour
+E14001321,Leeds North East,Any
+E14001322,Leeds North West,Labour
+E14001323,Leeds South,Any
+E14001324,Leeds South West and Morley,Labour
+E14001325,Leeds West and Pudsey,Labour
+E14001326,Leicester East,Labour
+E14001327,Leicester South,Any
+E14001328,Leicester West,Labour
+E14001329,Leigh and Atherton,Labour
+E14001330,Lewes,Lib Dem
+E14001331,Lewisham East,Any
+E14001332,Lewisham North,Any
+E14001333,Lewisham West and East Dulwich,Any
+E14001334,Leyton and Wanstead,Any
+E14001335,Lichfield,Labour
+E14001336,Lincoln,Labour
+E14001337,Liverpool Garston,Any
+E14001338,Liverpool Riverside,Any
+E14001339,Liverpool Walton,Any
+E14001340,Liverpool Wavertree,Any
+E14001341,Liverpool West Derby,Any
+E14001342,Loughborough,Labour
+E14001343,Louth and Horncastle,Labour
+E14001344,Lowestoft,Labour
+E14001345,Luton North,Labour
+E14001346,Luton South and South Bedfordshire,Labour
+E14001347,Macclesfield,Labour
+E14001348,Maidenhead,TBC
+E14001349,Maidstone and Malling,TBC
+E14001350,Makerfield,Labour
+E14001351,Maldon,Labour
+E14001352,Manchester Central,Any
+E14001353,Manchester Rusholme,Any
+E14001354,Manchester Withington,Any
+E14001355,Mansfield,Labour
+E14001356,Melksham and Devizes,TBC
+E14001357,Melton and Syston,Labour
+E14001358,Meriden and Solihull East,Labour
+E14001359,Mid Bedfordshire,Labour
+E14001360,Mid Buckinghamshire,TBC
+E14001361,Mid Cheshire,Labour
+E14001362,Mid Derbyshire,Labour
+E14001363,Mid Dorset and North Poole,Lib Dem
+E14001364,Mid Leicestershire,Labour
+E14001365,Mid Norfolk,Labour
+E14001366,Mid Sussex,TBC
+E14001367,Middlesbrough and Thornaby East,Any
+E14001368,Middlesbrough South and East Cleveland,Labour
+E14001369,Milton Keynes Central,Labour
+E14001370,Milton Keynes North,Labour
+E14001371,Mitcham and Morden,Any
+E14001372,Morecambe and Lunesdale,Labour
+E14001373,New Forest East,Labour
+E14001374,New Forest West,TBC
+E14001375,Newark,Labour
+E14001376,Newbury,Lib Dem
+E14001377,Newcastle upon Tyne Central and West,Any
+E14001378,Newcastle upon Tyne East and Wallsend,Any
+E14001379,Newcastle upon Tyne North,Labour
+E14001380,Newcastle-under-Lyme,Labour
+E14001381,Newton Abbot,TBC
+E14001382,Newton Aycliffe and Spennymoor,Labour
+E14001383,Normanton and Hemsworth,Labour
+E14001384,North Bedfordshire,Labour
+E14001385,North Cornwall,Lib Dem
+E14001386,North Cotswolds,TBC
+E14001387,North Devon,Lib Dem
+E14001388,North Dorset,TBC
+E14001389,North Durham,Labour
+E14001390,North East Cambridgeshire,Labour
+E14001391,North East Derbyshire,Labour
+E14001392,North East Hampshire,TBC
+E14001393,North East Hertfordshire,Labour
+E14001394,North East Somerset and Hanham,Labour
+E14001395,North Herefordshire,Green
+E14001396,North Norfolk,Lib Dem
+E14001397,North Northumberland,Labour
+E14001398,North Shropshire,Lib Dem
+E14001399,North Somerset,Labour
+E14001400,North Warwickshire and Bedworth,Labour
+E14001401,North West Cambridgeshire,Labour
+E14001402,North West Essex,TBC
+E14001403,North West Hampshire,TBC
+E14001404,North West Leicestershire,Labour
+E14001405,North West Norfolk,Labour
+E14001406,Northampton North,Labour
+E14001407,Northampton South,Labour
+E14001408,Norwich North,Labour
+E14001409,Norwich South,Any
+E14001410,Nottingham East,Any
+E14001411,Nottingham North and Kimberley,Labour
+E14001412,Nottingham South,Labour
+E14001413,Nuneaton,Labour
+E14001414,Old Bexley and Sidcup,Labour
+E14001415,Oldham East and Saddleworth,Labour
+E14001416,"Oldham West, Chadderton and Royton",Labour
+E14001417,Orpington,Labour
+E14001418,Ossett and Denby Dale,Labour
+E14001419,Oxford East,Any
+E14001420,Oxford West and Abingdon,Lib Dem
+E14001421,Peckham,Any
+E14001422,Pendle and Clitheroe,Labour
+E14001423,Penistone and Stocksbridge,Labour
+E14001424,Penrith and Solway,Labour
+E14001425,Peterborough,Labour
+E14001426,Plymouth Moor View,Labour
+E14001427,Plymouth Sutton and Devonport,Labour
+E14001428,"Pontefract, Castleford and Knottingley",Labour
+E14001429,Poole,Labour
+E14001430,Poplar and Limehouse,Any
+E14001431,Portsmouth North,Labour
+E14001432,Portsmouth South,Labour
+E14001433,Preston,Any
+E14001434,Putney,Labour
+E14001435,Queen's Park and Maida Vale,Any
+E14001436,Rawmarsh and Conisbrough,Labour
+E14001437,Rayleigh and Wickford,Labour
+E14001438,Reading Central,Labour
+E14001439,Reading West and Mid Berkshire,Labour
+E14001440,Redcar,Labour
+E14001441,Redditch,Labour
+E14001442,Reigate,TBC
+E14001443,Ribble Valley,Labour
+E14001444,Richmond and Northallerton,Labour
+E14001445,Richmond Park,Lib Dem
+E14001446,Rochdale,Labour
+E14001447,Rochester and Strood,Labour
+E14001448,Romford,Labour
+E14001449,Romsey and Southampton North,Lib Dem
+E14001450,Rossendale and Darwen,Labour
+E14001451,Rother Valley,Labour
+E14001452,Rotherham,Labour
+E14001453,Rugby,Labour
+E14001454,"Ruislip, Northwood and Pinner",Labour
+E14001455,Runcorn and Helsby,Labour
+E14001456,Runnymede and Weybridge,TBC
+E14001457,Rushcliffe,Labour
+E14001458,Rutland and Stamford,TBC
+E14001459,Salford,Any
+E14001460,Salisbury,TBC
+E14001461,Scarborough and Whitby,Labour
+E14001462,Scunthorpe,Labour
+E14001463,Sefton Central,Labour
+E14001464,Selby,Labour
+E14001465,Sevenoaks,TBC
+E14001466,Sheffield Brightside and Hillsborough,Any
+E14001467,Sheffield Central,Any
+E14001468,Sheffield Hallam,Any
+E14001469,Sheffield Heeley,Any
+E14001470,Sheffield South East,Labour
+E14001471,Sherwood Forest,Labour
+E14001472,Shipley,Labour
+E14001473,Shrewsbury,Labour
+E14001474,Sittingbourne and Sheppey,Labour
+E14001475,Skipton and Ripon,Labour
+E14001476,Sleaford and North Hykeham,Labour
+E14001477,Slough,Labour
+E14001478,Smethwick,Any
+E14001479,Solihull West and Shirley,Labour
+E14001480,South Basildon and East Thurrock,Labour
+E14001481,South Cambridgeshire,LD
+E14001482,South Cotswolds,Lib Dem
+E14001483,South Derbyshire,Labour
+E14001484,South Devon,Lib Dem
+E14001485,South Dorset,Labour
+E14001486,South East Cornwall,Labour
+E14001487,South Holland and The Deepings,Labour
+E14001488,South Leicestershire,Labour
+E14001489,South Norfolk,Labour
+E14001490,South Northamptonshire,Labour
+E14001491,South Ribble,Labour
+E14001492,South Shields,Any
+E14001493,South Shropshire,Labour
+E14001494,South Suffolk,Labour
+E14001495,South West Devon,Labour
+E14001496,South West Hertfordshire,Labour
+E14001497,South West Norfolk,Labour
+E14001498,South West Wiltshire,Labour
+E14001499,Southampton Itchen,Labour
+E14001500,Southampton Test,Labour
+E14001501,Southend East and Rochford,Labour
+E14001502,Southend West and Leigh,Labour
+E14001503,Southgate and Wood Green,Any
+E14001504,Southport,Labour
+E14001505,Spelthorne,Labour
+E14001506,Spen Valley,Labour
+E14001507,St Albans,Lib Dem
+E14001508,St Austell and Newquay,Labour
+E14001509,St Helens North,Any
+E14001510,St Helens South and Whiston,Any
+E14001511,St Ives,Lib Dem
+E14001512,St Neots and Mid Cambridgeshire,TBC
+E14001513,Stafford,Labour
+E14001514,Staffordshire Moorlands,Labour
+E14001515,Stalybridge and Hyde,Labour
+E14001516,Stevenage,Labour
+E14001517,Stockport,Any
+E14001518,Stockton North,Labour
+E14001519,Stockton West,Labour
+E14001520,Stoke-on-Trent Central,Labour
+E14001521,Stoke-on-Trent North,Labour
+E14001522,Stoke-on-Trent South,Labour
+E14001523,"Stone, Great Wyrley and Penkridge",Labour
+E14001524,Stourbridge,Labour
+E14001525,Stratford and Bow,Any
+E14001526,Stratford-on-Avon,Lib Dem
+E14001527,Streatham and Croydon North,Any
+E14001528,Stretford and Urmston,Any
+E14001529,Stroud,Labour
+E14001530,Suffolk Coastal,Labour
+E14001531,Sunderland Central,Labour
+E14001532,Surrey Heath,Lib Dem
+E14001533,Sussex Weald,TBC
+E14001534,Sutton and Cheam,Lib Dem
+E14001535,Sutton Coldfield,Labour
+E14001536,Swindon North,Labour
+E14001537,Swindon South,Labour
+E14001538,Tamworth,Labour
+E14001539,Tatton,Labour
+E14001540,Taunton and Wellington,Lib Dem
+E14001541,Telford,Labour
+E14001542,Tewkesbury,TBC
+E14001543,The Wrekin,Labour
+E14001544,Thirsk and Malton,Labour
+E14001545,Thornbury and Yate,Lib Dem
+E14001546,Thurrock,Labour
+E14001547,Tipton and Wednesbury,Labour
+E14001548,Tiverton and Minehead,Lib Dem
+E14001549,Tonbridge,Labour
+E14001550,Tooting,Any
+E14001551,Torbay,TBC
+E14001552,Torridge and Tavistock,TBC
+E14001553,Tottenham,Any
+E14001554,Truro and Falmouth,Labour
+E14001555,Tunbridge Wells,Lib Dem
+E14001556,Twickenham,Lib Dem
+E14001557,Tynemouth,Labour
+E14001558,Uxbridge and South Ruislip,Labour
+E14001559,Vauxhall and Camberwell Green,Any
+E14001560,Wakefield and Rothwell,Labour
+E14001561,Wallasey,Any
+E14001562,Walsall and Bloxwich,Labour
+E14001563,Walthamstow,Any
+E14001564,Warrington North,Labour
+E14001565,Warrington South,Labour
+E14001566,Warwick and Leamington,Labour
+E14001567,Washington and Gateshead South,Labour
+E14001568,Watford,Labour
+E14001569,Waveney Valley,Green
+E14001570,Weald of Kent,Labour
+E14001571,Wellingborough and Rushden,Labour
+E14001572,Wells and Mendip Hills,Lib Dem
+E14001573,Welwyn Hatfield,Labour
+E14001574,West Bromwich,Labour
+E14001575,West Dorset,Lib Dem
+E14001576,West Ham and Beckton,Any
+E14001577,West Lancashire,Any
+E14001578,West Suffolk,Labour
+E14001579,West Worcestershire,TBC
+E14001580,Westmorland and Lonsdale,Lib Dem
+E14001581,Weston-super-Mare,Labour
+E14001582,Wetherby and Easingwold,Labour
+E14001583,Whitehaven and Workington,Labour
+E14001584,Widnes and Halewood,Any
+E14001585,Wigan,Labour
+E14001586,Wimbledon,Lib Dem
+E14001587,Winchester,Lib Dem
+E14001588,Windsor,Labour
+E14001589,Wirral West,Labour
+E14001590,Witham,Labour
+E14001591,Witney,TBC
+E14001592,Woking,Lib Dem
+E14001593,Wokingham,Lib Dem
+E14001594,Wolverhampton North East,Labour
+E14001595,Wolverhampton South East,Labour
+E14001596,Wolverhampton West,Labour
+E14001597,Worcester,Labour
+E14001598,Worsley and Eccles,Labour
+E14001599,Worthing West,Labour
+E14001600,Wycombe,Labour
+E14001601,Wyre Forest,Labour
+E14001602,Wythenshawe and Sale East,Any
+E14001603,Yeovil,Lib Dem
+E14001604,York Central,Any
+E14001605,York Outer,Labour
+N05000001,Belfast East,Alliance
+N05000002,Belfast North,Sinn Féin
+N05000003,Belfast South and Mid Down,SDLP
+N05000004,Belfast West,Sinn Féin
+N05000005,East Antrim,Alliance
+N05000006,East Londonderry,TBC
+N05000007,Fermanagh and South Tyrone,Sinn Féin
+N05000008,Foyle,Any
+N05000009,Lagan Valley,Alliance
+N05000010,Mid Ulster,Sinn Féin
+N05000011,Newry and Armagh,Any
+N05000012,North Antrim,Any
+N05000013,North Down,Alliance
+N05000014,South Antrim,TBC
+N05000015,South Down,Any
+N05000016,Strangford,Alliance
+N05000017,Upper Bann,Sinn Féin
+N05000018,West Tyrone,Any
+S14000060,Aberdeen North,Any
+S14000061,Aberdeen South,SNP
+S14000062,Aberdeenshire North and Moray East,SNP
+S14000063,Airdrie and Shotts,Any
+S14000064,Alloa and Grangemouth,Any
+S14000065,Angus and Perthshire Glens,SNP
+S14000066,Arbroath and Broughty Ferry,SNP
+S14000067,"Argyll, Bute and South Lochaber",SNP
+S14000006,"Ayr, Carrick and Cumnock",SNP
+S14000068,Bathgate and Linlithgow,TBC
+S14000008,"Berwickshire, Roxburgh and Selkirk",SNP
+S14000069,"Caithness, Sutherland and Easter Ross",Any
+S14000010,Central Ayrshire,SNP
+S14000070,Coatbridge and Bellshill,Any
+S14000071,Cowdenbeath and Kirkcaldy,TBC
+S14000072,Cumbernauld and Kirkintilloch,Any
+S14000073,Dumfries and Galloway,SNP
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",SNP
+S14000075,Dundee Central,Any
+S14000076,Dunfermline and Dollar,Any
+S14000077,East Kilbride and Strathaven,Any
+S14000021,East Renfrewshire,SNP
+S14000078,Edinburgh East and Musselburgh,Any
+S14000079,Edinburgh North and Leith,Any
+S14000080,Edinburgh South,Any
+S14000081,Edinburgh South West,Any
+S14000082,Edinburgh West,Any
+S14000083,Falkirk,Any
+S14000084,Glasgow East,Any
+S14000085,Glasgow North,Any
+S14000086,Glasgow North East,Any
+S14000087,Glasgow South,Any
+S14000088,Glasgow South West,Any
+S14000089,Glasgow West,Any
+S14000090,Glenrothes and Mid Fife,Any
+S14000091,Gordon and Buchan,SNP
+S14000092,Hamilton and Clyde Valley,Any
+S14000093,Inverclyde and Renfrewshire West,Any
+S14000094,"Inverness, Skye and West Ross-shire",Any
+S14000040,Kilmarnock and Loudoun,Any
+S14000095,Livingston,Any
+S14000096,Lothian East,Labour or SNP
+S14000097,Mid Dunbartonshire,Any
+S14000045,Midlothian,Any
+S14000098,"Moray West, Nairn and Strathspey",SNP
+S14000099,"Motherwell, Wishaw and Carluke",Any
+S14000027,Na h-Eileanan an Iar,Any
+S14000048,North Ayrshire and Arran,SNP
+S14000100,North East Fife,Any
+S14000051,Orkney and Shetland,Any
+S14000101,Paisley and Renfrewshire North,Any
+S14000102,Paisley and Renfrewshire South,Any
+S14000103,Perth and Kinross-shire,SNP
+S14000104,Rutherglen,Any
+S14000105,Stirling and Strathallan,SNP
+S14000058,West Aberdeenshire and Kincardine,SNP
+S14000106,West Dunbartonshire,Any
+W07000081,Aberafan Maesteg,Any
+W07000082,Alyn and Deeside,Labour
+W07000083,Bangor Aberconwy,Labour
+W07000084,Blaenau Gwent and Rhymney,Labour
+W07000085,"Brecon, Radnor and Cwm Tawe",TBC
+W07000086,Bridgend,Labour
+W07000087,Caerfyrddin,Plaid Cymru
+W07000088,Caerphilly,Labour
+W07000089,Cardiff East,Any
+W07000090,Cardiff North,Labour
+W07000091,Cardiff South and Penarth,Labour
+W07000092,Cardiff West,Any
+W07000093,Ceredigion Preseli,Plaid Cymru
+W07000094,Clwyd East,Labour
+W07000095,Clwyd North,Labour
+W07000096,Dwyfor Meirionnydd,Any
+W07000097,Gower,Labour
+W07000098,Llanelli,Labour
+W07000099,Merthyr Tydfil and Aberdare,Any
+W07000100,Mid and South Pembrokeshire,Labour
+W07000101,Monmouthshire,Labour
+W07000102,Montgomeryshire and Glyndwr,Labour
+W07000103,Neath and Swansea East,Any
+W07000104,Newport East,Labour
+W07000105,Newport West and Islwyn,Labour
+W07000106,Pontypridd,Any
+W07000107,Rhondda and Ogmore,Any
+W07000108,Swansea West,Any
+W07000109,Torfaen,Labour
+W07000110,Vale of Glamorgan,Labour
+W07000111,Wrexham,Labour
+W07000112,Ynys Môn,TBC Labour or Plaid Cymru
