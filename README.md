@@ -12,6 +12,19 @@ This code aims to scrape the various different sites to assemble a unified sprea
 the inconsistencies, so the administrators of each site can check to see why they disagree and hopefully back a
 single non-Tory candidate.
 
+# Current differences between tactical voting sites
+
+* Brighton Pavilion (E14001130): Stop the Tories has Green or Labour at https://stopthetories.vote/parl/brighton-pavilion, tactical.vote has Green at https://tactical.vote/brighton-pavilion/, tacticalvote.co.uk has Any at https://tacticalvote.co.uk/#BrightonPavilion
+* Bristol Central (E14001131): Stop the Tories has Labour or Green at https://stopthetories.vote/parl/bristol-central, tactical.vote has Green at https://tactical.vote/bristol-central/, tacticalvote.co.uk has Any at https://tacticalvote.co.uk/#BristolCentral
+* Hamilton and Clyde Valley (S14000092): Stop the Tories has Labour or SNP at https://stopthetories.vote/parl/hamilton-and-clyde-valley, tactical.vote has SNP at https://tactical.vote/hamilton-and-clyde-valley/, tacticalvote.co.uk has Any at https://tacticalvote.co.uk/#HamiltonClydeValley
+* Livingston (S14000095): Stop the Tories has Labour or SNP at https://stopthetories.vote/parl/livingston, tactical.vote has SNP at https://tactical.vote/livingston/, tacticalvote.co.uk has Any at https://tacticalvote.co.uk/#Livingston
+* Lothian East (S14000096): Stop the Tories has TBC at https://stopthetories.vote/parl/lothian-east, tactical.vote has SNP at https://tactical.vote/lothian-east/, tacticalvote.co.uk has Labour or SNP at https://tacticalvote.co.uk/#LothianEast
+* Waveney Valley (E14001569): Stop the Tories has Green at https://stopthetories.vote/parl/waveney-valley, tactical.vote has Labour at https://tactical.vote/waveney-valley/, tacticalvote.co.uk has Green at https://tacticalvote.co.uk/#WaveneyValley
+
+This excludes the many constituencies that are currently marked as TBC.
+
+It also excludes constituencies where one or more sites have "Any", considering it a safe non-Tory seat, but others have a specific recommendation. 
+
 # Sites covered
 
 - tacticalvote.co.uk
