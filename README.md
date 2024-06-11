@@ -16,7 +16,7 @@ single non-Tory candidate.
 
 - tacticalvote.co.uk
 - tactical.vote
-- stopthetories.vote
+- stopthetories.vote (note - currently scraping, but there are CSVs at https://stopthetories.vote/data - the filename changes regularly)
 - getvoting.org (not yet - no recommendations yet, and not as clearly anti-Tory as the others)
 
 # Data files
