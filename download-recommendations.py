@@ -30,6 +30,19 @@ class TacticalDotVoteChecker:
         name = re.sub(r'[^a-z0-9\-]', '', name)
         return name
 
+    @staticmethod
+    def normalize_recommendation(name):
+        mapping = {
+            'Plaid cymru': 'Plaid Cymru',
+            'Liberal democrat': 'Lib Dem',
+            'Social democratic and labour party': 'SDLP',
+            'Scottish national party': 'SNP',
+            'Sinn fein': 'Sinn Féin',
+            'No recommendation': 'Any',
+            'Not sure': 'TBC',
+        }
+        return mapping.get(name, name)
+
     def get_recommendation(self, normalized_name):
         url = f'https://tactical.vote/{normalized_name}/'
         response = requests.get(url, headers=self.headers)
@@ -100,6 +113,13 @@ class TacticalVoteCoUkDownloader:
         return name
 
     @staticmethod
+    def normalize_recommendation(name):
+        mapping = {
+            'LD': 'Lib Dem',
+        }
+        return mapping.get(name, name)
+
+    @staticmethod
     def process_csv(csv_data):
         results = []
         reader = csv.DictReader(csv_data.splitlines())
@@ -109,7 +129,7 @@ class TacticalVoteCoUkDownloader:
             constituency_name = row['Constituency']
             normalized_name = TacticalVoteCoUkDownloader.normalize_name(row['Constituency'])
             source_url = f'https://tacticalvote.co.uk/#{normalized_name}'
-            recommendation = row['Vote For']
+            recommendation = TacticalVoteCoUkDownloader.normalize_recommendation(row['Vote For'])
             results.append([code, constituency_name, source_url, recommendation])
 
         return results
@@ -139,8 +159,21 @@ class StopTheToriesVoteChecker:
         name = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode('ascii')
         name = name.lower()
         name = re.sub(r'\s+', '-', name)
+        name = re.sub(r"'", '-', name) # Queen's Park and Maida Vale
         name = re.sub(r'[^a-z0-9\-]', '', name)
         return name
+
+    @staticmethod
+    def normalize_recommendation(name):
+        mapping = {
+            'plaid': 'Plaid Cymru',
+            'libdem': 'Lib Dem',
+            'green': 'Green',
+            'snp': 'SNP',
+            'No recommendation': 'TBC',
+            'labour': 'Labour',
+        }
+        return mapping.get(name, name)
 
     def get_recommendation(self, normalized_name):
         url = f'https://stopthetories.vote/parl/{normalized_name}'
