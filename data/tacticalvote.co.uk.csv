@@ -1,651 +1,651 @@
-Code,Constituency name,Recommendation
-E14001063,Aldershot,Labour
-E14001064,Aldridge-Brownhills,Labour
-E14001065,Altrincham and Sale West,Labour
-E14001066,Amber Valley,Labour
-E14001067,Arundel and South Downs,TBC
-E14001068,Ashfield,Labour
-E14001069,Ashford,Labour
-E14001070,Ashton-under-Lyne,Labour
-E14001071,Aylesbury,Labour
-E14001072,Banbury,Labour
-E14001073,Barking,Any
-E14001074,Barnsley North,Labour
-E14001075,Barnsley South,Labour
-E14001076,Barrow and Furness,Labour
-E14001077,Basildon and Billericay,Labour
-E14001078,Basingstoke,Labour
-E14001079,Bassetlaw,Labour
-E14001080,Bath,Lib Dem
-E14001081,Battersea,Labour
-E14001082,Beaconsfield,Labour
-E14001083,Beckenham and Penge,Labour
-E14001084,Bedford,Labour
-E14001085,Bermondsey and Old Southwark,Any
-E14001086,Bethnal Green and Stepney,Labour
-E14001087,Beverley and Holderness,Labour
-E14001088,Bexhill and Battle,Labour
-E14001089,Bexleyheath and Crayford,Labour
-E14001090,Bicester and Woodstock,TBC
-E14001091,Birkenhead,Any
-E14001092,Birmingham Edgbaston,Labour
-E14001093,Birmingham Erdington,Labour
-E14001094,Birmingham Hall Green and Moseley,Labour
-E14001095,Birmingham Hodge Hill and Solihull North,Labour
-E14001096,Birmingham Ladywood,Labour
-E14001097,Birmingham Northfield,Labour
-E14001098,Birmingham Perry Barr,Any
-E14001099,Birmingham Selly Oak,Labour
-E14001100,Birmingham Yardley,Any
-E14001101,Bishop Auckland,Labour
-E14001102,Blackburn,Labour
-E14001103,Blackley and Middleton South,Any
-E14001104,Blackpool North and Fleetwood,Labour
-E14001105,Blackpool South,Labour
-E14001106,Blaydon and Consett,Labour
-E14001107,Blyth and Ashington,Labour
-E14001108,Bognor Regis and Littlehampton,Labour
-E14001109,Bolsover,Labour
-E14001110,Bolton North East,Labour
-E14001111,Bolton South and Walkden,Labour
-E14001112,Bolton West,Labour
-E14001113,Bootle,Any
-E14001114,Boston and Skegness,Labour
-E14001115,Bournemouth East,Labour
-E14001116,Bournemouth West,Labour
-E14001117,Bracknell,Labour
-E14001118,Bradford East,Labour
-E14001119,Bradford South,Labour
-E14001120,Bradford West,Labour
-E14001121,Braintree,Labour
-E14001122,Brent East,Any
-E14001123,Brent West,Labour
-E14001124,Brentford and Isleworth,Any
-E14001125,Brentwood and Ongar,Labour
-E14001126,Bridgwater,Labour
-E14001127,Bridlington and The Wolds,Labour
-E14001128,Brigg and Immingham,Labour
-E14001129,Brighton Kemptown and Peacehaven,Labour
-E14001130,Brighton Pavilion,Any
-E14001131,Bristol Central,Any
-E14001132,Bristol East,Any
-E14001133,Bristol North East,Labour
-E14001134,Bristol North West,Labour
-E14001135,Bristol South,Labour
-E14001136,Broadland and Fakenham,Labour
-E14001137,Bromley and Biggin Hill,Labour
-E14001138,Bromsgrove,Labour
-E14001139,Broxbourne,Labour
-E14001140,Broxtowe,Labour
-E14001141,Buckingham and Bletchley,Labour
-E14001142,Burnley,Labour
-E14001143,Burton and Uttoxeter,Labour
-E14001144,Bury North,Labour
-E14001145,Bury South,Labour
-E14001146,Bury St Edmunds and Stowmarket,Labour
-E14001147,Calder Valley,Labour
-E14001148,Camborne and Redruth,Labour
-E14001149,Cambridge,Any
-E14001150,Cannock Chase,Labour
-E14001151,Canterbury,Labour
-E14001152,Carlisle,Labour
-E14001153,Carshalton and Wallington,Lib Dem
-E14001154,Castle Point,Labour
-E14001155,Central Devon,Labour
-E14001156,Central Suffolk and North Ipswich,Labour
-E14001157,Chatham and Aylesford,Labour
-E14001158,Cheadle,Lib Dem
-E14001159,Chelmsford,TBC
-E14001160,Chelsea and Fulham,Labour
-E14001161,Cheltenham,Lib Dem
-E14001162,Chesham and Amersham,Lib Dem
-E14001163,Chester North and Neston,Labour
-E14001164,Chester South and Eddisbury,Labour
-E14001165,Chesterfield,Labour
-E14001166,Chichester,Lib Dem
-E14001167,Chingford and Woodford Green,Labour
-E14001168,Chippenham,Lib Dem
-E14001169,Chipping Barnet,Labour
-E14001170,Chorley,Any
-E14001171,Christchurch,TBC
-E14001172,Cities of London and Westminster,Labour
-E14001173,City of Durham,Labour
-E14001174,Clacton,Labour
-E14001175,Clapham and Brixton Hill,Any
-E14001176,Colchester,Labour
-E14001177,Colne Valley,Labour
-E14001178,Congleton,Labour
-E14001179,Corby and East Northamptonshire,Labour
-E14001180,Coventry East,Labour
-E14001181,Coventry North West,Labour
-E14001182,Coventry South,Labour
-E14001183,Cramlington and Killingworth,Labour
-E14001184,Crawley,Labour
-E14001185,Crewe and Nantwich,Labour
-E14001186,Croydon East,Labour
-E14001187,Croydon South,Labour
-E14001188,Croydon West,Any
-E14001189,Dagenham and Rainham,Labour
-E14001190,Darlington,Labour
-E14001191,Dartford,Labour
-E14001192,Daventry,Labour
-E14001193,Derby North,Labour
-E14001194,Derby South,Labour
-E14001195,Derbyshire Dales,Labour
-E14001196,Dewsbury and Batley,Labour
-E14001197,Didcot and Wantage,Lib Dem
-E14001198,Doncaster Central,Labour
-E14001199,Doncaster East and the Isle of Axholme,Labour
-E14001200,Doncaster North,Labour
-E14001201,Dorking and Horley,Lib Dem
-E14001202,Dover and Deal,Labour
-E14001203,Droitwich and Evesham,Labour
-E14001204,Dudley,Labour
-E14001205,Dulwich and West Norwood,Any
-E14001206,Dunstable and Leighton Buzzard,Labour
-E14001207,Ealing Central and Acton,Any
-E14001208,Ealing North,Any
-E14001209,Ealing Southall,Any
-E14001210,Earley and Woodley,Labour
-E14001211,Easington,Labour
-E14001212,East Grinstead and Uckfield,TBC
-E14001213,East Ham,Labour
-E14001214,East Hampshire,TBC
-E14001215,East Surrey,TBC
-E14001216,East Thanet,Labour
-E14001217,East Wiltshire,Labour
-E14001218,East Worthing and Shoreham,Labour
-E14001219,Eastbourne,Lib Dem
-E14001220,Eastleigh,Lib Dem
-E14001221,Edmonton and Winchmore Hill,Any
-E14001222,Ellesmere Port and Bromborough,Any
-E14001223,Eltham and Chislehurst,Labour
-E14001224,Ely and East Cambridgeshire,TBC
-E14001225,Enfield North,Labour
-E14001226,Epping Forest,Labour
-E14001227,Epsom and Ewell,TBC
-E14001228,Erewash,Labour
-E14001229,Erith and Thamesmead,Any
-E14001230,Esher and Walton,Lib Dem
-E14001231,Exeter,Any
-E14001232,Exmouth and Exeter East,TBC
-E14001233,Fareham and Waterlooville,TBC
-E14001234,Farnham and Bordon,Lib Dem
-E14001235,Faversham and Mid Kent,Labour
-E14001236,Feltham and Heston,Labour
-E14001237,Filton and Bradley Stoke,Labour
-E14001238,Finchley and Golders Green,TBC
-E14001239,Folkestone and Hythe,Labour
-E14001240,Forest of Dean,Labour
-E14001241,Frome and East Somerset,Lib Dem
-E14001242,Fylde,Labour
-E14001243,Gainsborough,Labour
-E14001244,Gateshead Central and Whickham,Labour
-E14001245,Gedling,Labour
-E14001246,Gillingham and Rainham,Labour
-E14001247,Glastonbury and Somerton,Lib Dem
-E14001248,Gloucester,Labour
-E14001249,Godalming and Ash,Lib Dem
-E14001250,Goole and Pocklington,Labour
-E14001251,Gorton and Denton,Any
-E14001252,Gosport,Labour
-E14001253,Grantham and Bourne,Labour
-E14001254,Gravesham,Labour
-E14001255,Great Grimsby and Cleethorpes,Labour
-E14001256,Great Yarmouth,Labour
-E14001257,Greenwich and Woolwich,Any
-E14001258,Guildford,Lib Dem
-E14001259,Hackney North and Stoke Newington,Any
-E14001260,Hackney South and Shoreditch,Any
-E14001261,Halesowen,Labour
-E14001262,Halifax,Labour
-E14001263,Hamble Valley,TBC
-E14001264,Hammersmith and Chiswick,Any
-E14001265,Hampstead and Highgate,Any
-E14001266,"Harborough, Oadby and Wigston",Labour
-E14001267,Harlow,Labour
-E14001268,Harpenden and Berkhamsted,Lib Dem
-E14001269,Harrogate and Knaresborough,Lib Dem
-E14001270,Harrow East,Labour
-E14001271,Harrow West,Labour
-E14001272,Hartlepool,Labour
-E14001273,Harwich and North Essex,Labour
-E14001274,Hastings and Rye,Labour
-E14001275,Havant,Labour
-E14001276,Hayes and Harlington,Labour
-E14001277,Hazel Grove,Lib Dem
-E14001278,Hemel Hempstead,Labour
-E14001279,Hendon,Labour
-E14001280,Henley and Thame,Lib Dem
-E14001281,Hereford and South Herefordshire,Labour
-E14001282,Herne Bay and Sandwich,Labour
-E14001283,Hertford and Stortford,Labour
-E14001284,Hertsmere,Labour
-E14001285,Hexham,Labour
-E14001286,Heywood and Middleton North,Labour
-E14001287,High Peak,Labour
-E14001288,Hinckley and Bosworth,TBC
-E14001289,Hitchin,Labour
-E14001290,Holborn and St Pancras,Any
-E14001291,Honiton and Sidmouth,Lib Dem
-E14001292,Hornchurch and Upminster,Labour
-E14001293,Hornsey and Friern Barnet,Any
-E14001294,Horsham,Lib Dem
-E14001295,Houghton and Sunderland South,Labour
-E14001296,Hove and Portslade,Any
-E14001297,Huddersfield,Labour
-E14001298,Huntingdon,Labour
-E14001299,Hyndburn,Labour
-E14001300,Ilford North,TBC
-E14001301,Ilford South,Labour
-E14001302,Ipswich,Labour
-E14001303,Isle of Wight East,TBC
-E14001304,Isle of Wight West,Labour
-E14001305,Islington North,Any
-E14001306,Islington South and Finsbury,Any
-E14001307,Jarrow and Gateshead East,Any
-E14001308,Keighley and Ilkley,Labour
-E14001309,Kenilworth and Southam,Labour
-E14001310,Kensington and Bayswater,Labour
-E14001311,Kettering,Labour
-E14001312,Kingston and Surbiton,Lib Dem
-E14001313,Kingston upon Hull East,Labour
-E14001314,Kingston upon Hull North and Cottingham,Labour
-E14001315,Kingston upon Hull West and Haltemprice,Labour
-E14001316,Kingswinford and South Staffordshire,Labour
-E14001317,Knowsley,Any
-E14001318,Lancaster and Wyre,Labour
-E14001319,Leeds Central and Headingley,Any
-E14001320,Leeds East,Labour
-E14001321,Leeds North East,Any
-E14001322,Leeds North West,Labour
-E14001323,Leeds South,Any
-E14001324,Leeds South West and Morley,Labour
-E14001325,Leeds West and Pudsey,Labour
-E14001326,Leicester East,Labour
-E14001327,Leicester South,Any
-E14001328,Leicester West,Labour
-E14001329,Leigh and Atherton,Labour
-E14001330,Lewes,Lib Dem
-E14001331,Lewisham East,Any
-E14001332,Lewisham North,Any
-E14001333,Lewisham West and East Dulwich,Any
-E14001334,Leyton and Wanstead,Any
-E14001335,Lichfield,Labour
-E14001336,Lincoln,Labour
-E14001337,Liverpool Garston,Any
-E14001338,Liverpool Riverside,Any
-E14001339,Liverpool Walton,Any
-E14001340,Liverpool Wavertree,Any
-E14001341,Liverpool West Derby,Any
-E14001342,Loughborough,Labour
-E14001343,Louth and Horncastle,Labour
-E14001344,Lowestoft,Labour
-E14001345,Luton North,Labour
-E14001346,Luton South and South Bedfordshire,Labour
-E14001347,Macclesfield,Labour
-E14001348,Maidenhead,TBC
-E14001349,Maidstone and Malling,TBC
-E14001350,Makerfield,Labour
-E14001351,Maldon,Labour
-E14001352,Manchester Central,Any
-E14001353,Manchester Rusholme,Any
-E14001354,Manchester Withington,Any
-E14001355,Mansfield,Labour
-E14001356,Melksham and Devizes,TBC
-E14001357,Melton and Syston,Labour
-E14001358,Meriden and Solihull East,Labour
-E14001359,Mid Bedfordshire,Labour
-E14001360,Mid Buckinghamshire,TBC
-E14001361,Mid Cheshire,Labour
-E14001362,Mid Derbyshire,Labour
-E14001363,Mid Dorset and North Poole,Lib Dem
-E14001364,Mid Leicestershire,Labour
-E14001365,Mid Norfolk,Labour
-E14001366,Mid Sussex,TBC
-E14001367,Middlesbrough and Thornaby East,Any
-E14001368,Middlesbrough South and East Cleveland,Labour
-E14001369,Milton Keynes Central,Labour
-E14001370,Milton Keynes North,Labour
-E14001371,Mitcham and Morden,Any
-E14001372,Morecambe and Lunesdale,Labour
-E14001373,New Forest East,Labour
-E14001374,New Forest West,TBC
-E14001375,Newark,Labour
-E14001376,Newbury,Lib Dem
-E14001377,Newcastle upon Tyne Central and West,Any
-E14001378,Newcastle upon Tyne East and Wallsend,Any
-E14001379,Newcastle upon Tyne North,Labour
-E14001380,Newcastle-under-Lyme,Labour
-E14001381,Newton Abbot,TBC
-E14001382,Newton Aycliffe and Spennymoor,Labour
-E14001383,Normanton and Hemsworth,Labour
-E14001384,North Bedfordshire,Labour
-E14001385,North Cornwall,Lib Dem
-E14001386,North Cotswolds,TBC
-E14001387,North Devon,Lib Dem
-E14001388,North Dorset,TBC
-E14001389,North Durham,Labour
-E14001390,North East Cambridgeshire,Labour
-E14001391,North East Derbyshire,Labour
-E14001392,North East Hampshire,TBC
-E14001393,North East Hertfordshire,Labour
-E14001394,North East Somerset and Hanham,Labour
-E14001395,North Herefordshire,Green
-E14001396,North Norfolk,Lib Dem
-E14001397,North Northumberland,Labour
-E14001398,North Shropshire,Lib Dem
-E14001399,North Somerset,Labour
-E14001400,North Warwickshire and Bedworth,Labour
-E14001401,North West Cambridgeshire,Labour
-E14001402,North West Essex,TBC
-E14001403,North West Hampshire,TBC
-E14001404,North West Leicestershire,Labour
-E14001405,North West Norfolk,Labour
-E14001406,Northampton North,Labour
-E14001407,Northampton South,Labour
-E14001408,Norwich North,Labour
-E14001409,Norwich South,Any
-E14001410,Nottingham East,Any
-E14001411,Nottingham North and Kimberley,Labour
-E14001412,Nottingham South,Labour
-E14001413,Nuneaton,Labour
-E14001414,Old Bexley and Sidcup,Labour
-E14001415,Oldham East and Saddleworth,Labour
-E14001416,"Oldham West, Chadderton and Royton",Labour
-E14001417,Orpington,Labour
-E14001418,Ossett and Denby Dale,Labour
-E14001419,Oxford East,Any
-E14001420,Oxford West and Abingdon,Lib Dem
-E14001421,Peckham,Any
-E14001422,Pendle and Clitheroe,Labour
-E14001423,Penistone and Stocksbridge,Labour
-E14001424,Penrith and Solway,Labour
-E14001425,Peterborough,Labour
-E14001426,Plymouth Moor View,Labour
-E14001427,Plymouth Sutton and Devonport,Labour
-E14001428,"Pontefract, Castleford and Knottingley",Labour
-E14001429,Poole,Labour
-E14001430,Poplar and Limehouse,Any
-E14001431,Portsmouth North,Labour
-E14001432,Portsmouth South,Labour
-E14001433,Preston,Any
-E14001434,Putney,Labour
-E14001435,Queen's Park and Maida Vale,Any
-E14001436,Rawmarsh and Conisbrough,Labour
-E14001437,Rayleigh and Wickford,Labour
-E14001438,Reading Central,Labour
-E14001439,Reading West and Mid Berkshire,Labour
-E14001440,Redcar,Labour
-E14001441,Redditch,Labour
-E14001442,Reigate,TBC
-E14001443,Ribble Valley,Labour
-E14001444,Richmond and Northallerton,Labour
-E14001445,Richmond Park,Lib Dem
-E14001446,Rochdale,Labour
-E14001447,Rochester and Strood,Labour
-E14001448,Romford,Labour
-E14001449,Romsey and Southampton North,Lib Dem
-E14001450,Rossendale and Darwen,Labour
-E14001451,Rother Valley,Labour
-E14001452,Rotherham,Labour
-E14001453,Rugby,Labour
-E14001454,"Ruislip, Northwood and Pinner",Labour
-E14001455,Runcorn and Helsby,Labour
-E14001456,Runnymede and Weybridge,TBC
-E14001457,Rushcliffe,Labour
-E14001458,Rutland and Stamford,TBC
-E14001459,Salford,Any
-E14001460,Salisbury,TBC
-E14001461,Scarborough and Whitby,Labour
-E14001462,Scunthorpe,Labour
-E14001463,Sefton Central,Labour
-E14001464,Selby,Labour
-E14001465,Sevenoaks,TBC
-E14001466,Sheffield Brightside and Hillsborough,Any
-E14001467,Sheffield Central,Any
-E14001468,Sheffield Hallam,Any
-E14001469,Sheffield Heeley,Any
-E14001470,Sheffield South East,Labour
-E14001471,Sherwood Forest,Labour
-E14001472,Shipley,Labour
-E14001473,Shrewsbury,Labour
-E14001474,Sittingbourne and Sheppey,Labour
-E14001475,Skipton and Ripon,Labour
-E14001476,Sleaford and North Hykeham,Labour
-E14001477,Slough,Labour
-E14001478,Smethwick,Any
-E14001479,Solihull West and Shirley,Labour
-E14001480,South Basildon and East Thurrock,Labour
-E14001481,South Cambridgeshire,LD
-E14001482,South Cotswolds,Lib Dem
-E14001483,South Derbyshire,Labour
-E14001484,South Devon,Lib Dem
-E14001485,South Dorset,Labour
-E14001486,South East Cornwall,Labour
-E14001487,South Holland and The Deepings,Labour
-E14001488,South Leicestershire,Labour
-E14001489,South Norfolk,Labour
-E14001490,South Northamptonshire,Labour
-E14001491,South Ribble,Labour
-E14001492,South Shields,Any
-E14001493,South Shropshire,Labour
-E14001494,South Suffolk,Labour
-E14001495,South West Devon,Labour
-E14001496,South West Hertfordshire,Labour
-E14001497,South West Norfolk,Labour
-E14001498,South West Wiltshire,Labour
-E14001499,Southampton Itchen,Labour
-E14001500,Southampton Test,Labour
-E14001501,Southend East and Rochford,Labour
-E14001502,Southend West and Leigh,Labour
-E14001503,Southgate and Wood Green,Any
-E14001504,Southport,Labour
-E14001505,Spelthorne,Labour
-E14001506,Spen Valley,Labour
-E14001507,St Albans,Lib Dem
-E14001508,St Austell and Newquay,Labour
-E14001509,St Helens North,Any
-E14001510,St Helens South and Whiston,Any
-E14001511,St Ives,Lib Dem
-E14001512,St Neots and Mid Cambridgeshire,TBC
-E14001513,Stafford,Labour
-E14001514,Staffordshire Moorlands,Labour
-E14001515,Stalybridge and Hyde,Labour
-E14001516,Stevenage,Labour
-E14001517,Stockport,Any
-E14001518,Stockton North,Labour
-E14001519,Stockton West,Labour
-E14001520,Stoke-on-Trent Central,Labour
-E14001521,Stoke-on-Trent North,Labour
-E14001522,Stoke-on-Trent South,Labour
-E14001523,"Stone, Great Wyrley and Penkridge",Labour
-E14001524,Stourbridge,Labour
-E14001525,Stratford and Bow,Any
-E14001526,Stratford-on-Avon,Lib Dem
-E14001527,Streatham and Croydon North,Any
-E14001528,Stretford and Urmston,Any
-E14001529,Stroud,Labour
-E14001530,Suffolk Coastal,Labour
-E14001531,Sunderland Central,Labour
-E14001532,Surrey Heath,Lib Dem
-E14001533,Sussex Weald,TBC
-E14001534,Sutton and Cheam,Lib Dem
-E14001535,Sutton Coldfield,Labour
-E14001536,Swindon North,Labour
-E14001537,Swindon South,Labour
-E14001538,Tamworth,Labour
-E14001539,Tatton,Labour
-E14001540,Taunton and Wellington,Lib Dem
-E14001541,Telford,Labour
-E14001542,Tewkesbury,TBC
-E14001543,The Wrekin,Labour
-E14001544,Thirsk and Malton,Labour
-E14001545,Thornbury and Yate,Lib Dem
-E14001546,Thurrock,Labour
-E14001547,Tipton and Wednesbury,Labour
-E14001548,Tiverton and Minehead,Lib Dem
-E14001549,Tonbridge,Labour
-E14001550,Tooting,Any
-E14001551,Torbay,TBC
-E14001552,Torridge and Tavistock,TBC
-E14001553,Tottenham,Any
-E14001554,Truro and Falmouth,Labour
-E14001555,Tunbridge Wells,Lib Dem
-E14001556,Twickenham,Lib Dem
-E14001557,Tynemouth,Labour
-E14001558,Uxbridge and South Ruislip,Labour
-E14001559,Vauxhall and Camberwell Green,Any
-E14001560,Wakefield and Rothwell,Labour
-E14001561,Wallasey,Any
-E14001562,Walsall and Bloxwich,Labour
-E14001563,Walthamstow,Any
-E14001564,Warrington North,Labour
-E14001565,Warrington South,Labour
-E14001566,Warwick and Leamington,Labour
-E14001567,Washington and Gateshead South,Labour
-E14001568,Watford,Labour
-E14001569,Waveney Valley,Green
-E14001570,Weald of Kent,Labour
-E14001571,Wellingborough and Rushden,Labour
-E14001572,Wells and Mendip Hills,Lib Dem
-E14001573,Welwyn Hatfield,Labour
-E14001574,West Bromwich,Labour
-E14001575,West Dorset,Lib Dem
-E14001576,West Ham and Beckton,Any
-E14001577,West Lancashire,Any
-E14001578,West Suffolk,Labour
-E14001579,West Worcestershire,TBC
-E14001580,Westmorland and Lonsdale,Lib Dem
-E14001581,Weston-super-Mare,Labour
-E14001582,Wetherby and Easingwold,Labour
-E14001583,Whitehaven and Workington,Labour
-E14001584,Widnes and Halewood,Any
-E14001585,Wigan,Labour
-E14001586,Wimbledon,Lib Dem
-E14001587,Winchester,Lib Dem
-E14001588,Windsor,Labour
-E14001589,Wirral West,Labour
-E14001590,Witham,Labour
-E14001591,Witney,TBC
-E14001592,Woking,Lib Dem
-E14001593,Wokingham,Lib Dem
-E14001594,Wolverhampton North East,Labour
-E14001595,Wolverhampton South East,Labour
-E14001596,Wolverhampton West,Labour
-E14001597,Worcester,Labour
-E14001598,Worsley and Eccles,Labour
-E14001599,Worthing West,Labour
-E14001600,Wycombe,Labour
-E14001601,Wyre Forest,Labour
-E14001602,Wythenshawe and Sale East,Any
-E14001603,Yeovil,Lib Dem
-E14001604,York Central,Any
-E14001605,York Outer,Labour
-N05000001,Belfast East,Alliance
-N05000002,Belfast North,Sinn Féin
-N05000003,Belfast South and Mid Down,SDLP
-N05000004,Belfast West,Sinn Féin
-N05000005,East Antrim,Alliance
-N05000006,East Londonderry,TBC
-N05000007,Fermanagh and South Tyrone,Sinn Féin
-N05000008,Foyle,Any
-N05000009,Lagan Valley,Alliance
-N05000010,Mid Ulster,Sinn Féin
-N05000011,Newry and Armagh,Any
-N05000012,North Antrim,Any
-N05000013,North Down,Alliance
-N05000014,South Antrim,TBC
-N05000015,South Down,Any
-N05000016,Strangford,Alliance
-N05000017,Upper Bann,Sinn Féin
-N05000018,West Tyrone,Any
-S14000060,Aberdeen North,Any
-S14000061,Aberdeen South,SNP
-S14000062,Aberdeenshire North and Moray East,SNP
-S14000063,Airdrie and Shotts,Any
-S14000064,Alloa and Grangemouth,Any
-S14000065,Angus and Perthshire Glens,SNP
-S14000066,Arbroath and Broughty Ferry,SNP
-S14000067,"Argyll, Bute and South Lochaber",SNP
-S14000006,"Ayr, Carrick and Cumnock",SNP
-S14000068,Bathgate and Linlithgow,TBC
-S14000008,"Berwickshire, Roxburgh and Selkirk",SNP
-S14000069,"Caithness, Sutherland and Easter Ross",Any
-S14000010,Central Ayrshire,SNP
-S14000070,Coatbridge and Bellshill,Any
-S14000071,Cowdenbeath and Kirkcaldy,TBC
-S14000072,Cumbernauld and Kirkintilloch,Any
-S14000073,Dumfries and Galloway,SNP
-S14000074,"Dumfriesshire, Clydesdale and Tweeddale",SNP
-S14000075,Dundee Central,Any
-S14000076,Dunfermline and Dollar,Any
-S14000077,East Kilbride and Strathaven,Any
-S14000021,East Renfrewshire,SNP
-S14000078,Edinburgh East and Musselburgh,Any
-S14000079,Edinburgh North and Leith,Any
-S14000080,Edinburgh South,Any
-S14000081,Edinburgh South West,Any
-S14000082,Edinburgh West,Any
-S14000083,Falkirk,Any
-S14000084,Glasgow East,Any
-S14000085,Glasgow North,Any
-S14000086,Glasgow North East,Any
-S14000087,Glasgow South,Any
-S14000088,Glasgow South West,Any
-S14000089,Glasgow West,Any
-S14000090,Glenrothes and Mid Fife,Any
-S14000091,Gordon and Buchan,SNP
-S14000092,Hamilton and Clyde Valley,Any
-S14000093,Inverclyde and Renfrewshire West,Any
-S14000094,"Inverness, Skye and West Ross-shire",Any
-S14000040,Kilmarnock and Loudoun,Any
-S14000095,Livingston,Any
-S14000096,Lothian East,Labour or SNP
-S14000097,Mid Dunbartonshire,Any
-S14000045,Midlothian,Any
-S14000098,"Moray West, Nairn and Strathspey",SNP
-S14000099,"Motherwell, Wishaw and Carluke",Any
-S14000027,Na h-Eileanan an Iar,Any
-S14000048,North Ayrshire and Arran,SNP
-S14000100,North East Fife,Any
-S14000051,Orkney and Shetland,Any
-S14000101,Paisley and Renfrewshire North,Any
-S14000102,Paisley and Renfrewshire South,Any
-S14000103,Perth and Kinross-shire,SNP
-S14000104,Rutherglen,Any
-S14000105,Stirling and Strathallan,SNP
-S14000058,West Aberdeenshire and Kincardine,SNP
-S14000106,West Dunbartonshire,Any
-W07000081,Aberafan Maesteg,Any
-W07000082,Alyn and Deeside,Labour
-W07000083,Bangor Aberconwy,Labour
-W07000084,Blaenau Gwent and Rhymney,Labour
-W07000085,"Brecon, Radnor and Cwm Tawe",TBC
-W07000086,Bridgend,Labour
-W07000087,Caerfyrddin,Plaid Cymru
-W07000088,Caerphilly,Labour
-W07000089,Cardiff East,Any
-W07000090,Cardiff North,Labour
-W07000091,Cardiff South and Penarth,Labour
-W07000092,Cardiff West,Any
-W07000093,Ceredigion Preseli,Plaid Cymru
-W07000094,Clwyd East,Labour
-W07000095,Clwyd North,Labour
-W07000096,Dwyfor Meirionnydd,Any
-W07000097,Gower,Labour
-W07000098,Llanelli,Labour
-W07000099,Merthyr Tydfil and Aberdare,Any
-W07000100,Mid and South Pembrokeshire,Labour
-W07000101,Monmouthshire,Labour
-W07000102,Montgomeryshire and Glyndwr,Labour
-W07000103,Neath and Swansea East,Any
-W07000104,Newport East,Labour
-W07000105,Newport West and Islwyn,Labour
-W07000106,Pontypridd,Any
-W07000107,Rhondda and Ogmore,Any
-W07000108,Swansea West,Any
-W07000109,Torfaen,Labour
-W07000110,Vale of Glamorgan,Labour
-W07000111,Wrexham,Labour
-W07000112,Ynys Môn,TBC Labour or Plaid Cymru
+Code,Constituency name,Source URL,Recommendation
+E14001063,Aldershot,https://tacticalvote.co.uk/#Aldershot,Labour
+E14001064,Aldridge-Brownhills,https://tacticalvote.co.uk/#AldridgeBrownhills,Labour
+E14001065,Altrincham and Sale West,https://tacticalvote.co.uk/#AltrinchamSaleWest,Labour
+E14001066,Amber Valley,https://tacticalvote.co.uk/#AmberValley,Labour
+E14001067,Arundel and South Downs,https://tacticalvote.co.uk/#ArundelSouthDowns,TBC
+E14001068,Ashfield,https://tacticalvote.co.uk/#Ashfield,Labour
+E14001069,Ashford,https://tacticalvote.co.uk/#Ashford,Labour
+E14001070,Ashton-under-Lyne,https://tacticalvote.co.uk/#AshtonunderLyne,Labour
+E14001071,Aylesbury,https://tacticalvote.co.uk/#Aylesbury,Labour
+E14001072,Banbury,https://tacticalvote.co.uk/#Banbury,Labour
+E14001073,Barking,https://tacticalvote.co.uk/#Barking,Any
+E14001074,Barnsley North,https://tacticalvote.co.uk/#BarnsleyNorth,Labour
+E14001075,Barnsley South,https://tacticalvote.co.uk/#BarnsleySouth,Labour
+E14001076,Barrow and Furness,https://tacticalvote.co.uk/#BarrowFurness,Labour
+E14001077,Basildon and Billericay,https://tacticalvote.co.uk/#BasildonBillericay,Labour
+E14001078,Basingstoke,https://tacticalvote.co.uk/#Basingstoke,Labour
+E14001079,Bassetlaw,https://tacticalvote.co.uk/#Bassetlaw,Labour
+E14001080,Bath,https://tacticalvote.co.uk/#Bath,Lib Dem
+E14001081,Battersea,https://tacticalvote.co.uk/#Battersea,Labour
+E14001082,Beaconsfield,https://tacticalvote.co.uk/#Beaconsfield,Labour
+E14001083,Beckenham and Penge,https://tacticalvote.co.uk/#BeckenhamPenge,Labour
+E14001084,Bedford,https://tacticalvote.co.uk/#Bedford,Labour
+E14001085,Bermondsey and Old Southwark,https://tacticalvote.co.uk/#BermondseyOldSouthwark,Any
+E14001086,Bethnal Green and Stepney,https://tacticalvote.co.uk/#BethnalGreenStepney,Labour
+E14001087,Beverley and Holderness,https://tacticalvote.co.uk/#BeverleyHolderness,Labour
+E14001088,Bexhill and Battle,https://tacticalvote.co.uk/#BexhillBattle,Labour
+E14001089,Bexleyheath and Crayford,https://tacticalvote.co.uk/#BexleyheathCrayford,Labour
+E14001090,Bicester and Woodstock,https://tacticalvote.co.uk/#BicesterWoodstock,TBC
+E14001091,Birkenhead,https://tacticalvote.co.uk/#Birkenhead,Any
+E14001092,Birmingham Edgbaston,https://tacticalvote.co.uk/#BirminghamEdgbaston,Labour
+E14001093,Birmingham Erdington,https://tacticalvote.co.uk/#BirminghamErdington,Labour
+E14001094,Birmingham Hall Green and Moseley,https://tacticalvote.co.uk/#BirminghamHallGreenMoseley,Labour
+E14001095,Birmingham Hodge Hill and Solihull North,https://tacticalvote.co.uk/#BirminghamHodgeHillSolihullNorth,Labour
+E14001096,Birmingham Ladywood,https://tacticalvote.co.uk/#BirminghamLadywood,Labour
+E14001097,Birmingham Northfield,https://tacticalvote.co.uk/#BirminghamNorthfield,Labour
+E14001098,Birmingham Perry Barr,https://tacticalvote.co.uk/#BirminghamPerryBarr,Any
+E14001099,Birmingham Selly Oak,https://tacticalvote.co.uk/#BirminghamSellyOak,Labour
+E14001100,Birmingham Yardley,https://tacticalvote.co.uk/#BirminghamYardley,Any
+E14001101,Bishop Auckland,https://tacticalvote.co.uk/#BishopAuckland,Labour
+E14001102,Blackburn,https://tacticalvote.co.uk/#Blackburn,Labour
+E14001103,Blackley and Middleton South,https://tacticalvote.co.uk/#BlackleyMiddletonSouth,Any
+E14001104,Blackpool North and Fleetwood,https://tacticalvote.co.uk/#BlackpoolNorthFleetwood,Labour
+E14001105,Blackpool South,https://tacticalvote.co.uk/#BlackpoolSouth,Labour
+E14001106,Blaydon and Consett,https://tacticalvote.co.uk/#BlaydonConsett,Labour
+E14001107,Blyth and Ashington,https://tacticalvote.co.uk/#BlythAshington,Labour
+E14001108,Bognor Regis and Littlehampton,https://tacticalvote.co.uk/#BognorRegisLittlehampton,Labour
+E14001109,Bolsover,https://tacticalvote.co.uk/#Bolsover,Labour
+E14001110,Bolton North East,https://tacticalvote.co.uk/#BoltonNorthEast,Labour
+E14001111,Bolton South and Walkden,https://tacticalvote.co.uk/#BoltonSouthWalkden,Labour
+E14001112,Bolton West,https://tacticalvote.co.uk/#BoltonWest,Labour
+E14001113,Bootle,https://tacticalvote.co.uk/#Bootle,Any
+E14001114,Boston and Skegness,https://tacticalvote.co.uk/#BostonSkegness,Labour
+E14001115,Bournemouth East,https://tacticalvote.co.uk/#BournemouthEast,Labour
+E14001116,Bournemouth West,https://tacticalvote.co.uk/#BournemouthWest,Labour
+E14001117,Bracknell,https://tacticalvote.co.uk/#Bracknell,Labour
+E14001118,Bradford East,https://tacticalvote.co.uk/#BradfordEast,Labour
+E14001119,Bradford South,https://tacticalvote.co.uk/#BradfordSouth,Labour
+E14001120,Bradford West,https://tacticalvote.co.uk/#BradfordWest,Labour
+E14001121,Braintree,https://tacticalvote.co.uk/#Braintree,Labour
+E14001122,Brent East,https://tacticalvote.co.uk/#BrentEast,Any
+E14001123,Brent West,https://tacticalvote.co.uk/#BrentWest,Labour
+E14001124,Brentford and Isleworth,https://tacticalvote.co.uk/#BrentfordIsleworth,Any
+E14001125,Brentwood and Ongar,https://tacticalvote.co.uk/#BrentwoodOngar,Labour
+E14001126,Bridgwater,https://tacticalvote.co.uk/#Bridgwater,Labour
+E14001127,Bridlington and The Wolds,https://tacticalvote.co.uk/#BridlingtonTheWolds,Labour
+E14001128,Brigg and Immingham,https://tacticalvote.co.uk/#BriggImmingham,Labour
+E14001129,Brighton Kemptown and Peacehaven,https://tacticalvote.co.uk/#BrightonKemptownPeacehaven,Labour
+E14001130,Brighton Pavilion,https://tacticalvote.co.uk/#BrightonPavilion,Any
+E14001131,Bristol Central,https://tacticalvote.co.uk/#BristolCentral,Any
+E14001132,Bristol East,https://tacticalvote.co.uk/#BristolEast,Any
+E14001133,Bristol North East,https://tacticalvote.co.uk/#BristolNorthEast,Labour
+E14001134,Bristol North West,https://tacticalvote.co.uk/#BristolNorthWest,Labour
+E14001135,Bristol South,https://tacticalvote.co.uk/#BristolSouth,Labour
+E14001136,Broadland and Fakenham,https://tacticalvote.co.uk/#BroadlandFakenham,Labour
+E14001137,Bromley and Biggin Hill,https://tacticalvote.co.uk/#BromleyBigginHill,Labour
+E14001138,Bromsgrove,https://tacticalvote.co.uk/#Bromsgrove,Labour
+E14001139,Broxbourne,https://tacticalvote.co.uk/#Broxbourne,Labour
+E14001140,Broxtowe,https://tacticalvote.co.uk/#Broxtowe,Labour
+E14001141,Buckingham and Bletchley,https://tacticalvote.co.uk/#BuckinghamBletchley,Labour
+E14001142,Burnley,https://tacticalvote.co.uk/#Burnley,Labour
+E14001143,Burton and Uttoxeter,https://tacticalvote.co.uk/#BurtonUttoxeter,Labour
+E14001144,Bury North,https://tacticalvote.co.uk/#BuryNorth,Labour
+E14001145,Bury South,https://tacticalvote.co.uk/#BurySouth,Labour
+E14001146,Bury St Edmunds and Stowmarket,https://tacticalvote.co.uk/#BuryStEdmundsStowmarket,Labour
+E14001147,Calder Valley,https://tacticalvote.co.uk/#CalderValley,Labour
+E14001148,Camborne and Redruth,https://tacticalvote.co.uk/#CamborneRedruth,Labour
+E14001149,Cambridge,https://tacticalvote.co.uk/#Cambridge,Any
+E14001150,Cannock Chase,https://tacticalvote.co.uk/#CannockChase,Labour
+E14001151,Canterbury,https://tacticalvote.co.uk/#Canterbury,Labour
+E14001152,Carlisle,https://tacticalvote.co.uk/#Carlisle,Labour
+E14001153,Carshalton and Wallington,https://tacticalvote.co.uk/#CarshaltonWallington,Lib Dem
+E14001154,Castle Point,https://tacticalvote.co.uk/#CastlePoint,Labour
+E14001155,Central Devon,https://tacticalvote.co.uk/#CentralDevon,Labour
+E14001156,Central Suffolk and North Ipswich,https://tacticalvote.co.uk/#CentralSuffolkNorthIpswich,Labour
+E14001157,Chatham and Aylesford,https://tacticalvote.co.uk/#ChathamAylesford,Labour
+E14001158,Cheadle,https://tacticalvote.co.uk/#Cheadle,Lib Dem
+E14001159,Chelmsford,https://tacticalvote.co.uk/#Chelmsford,TBC
+E14001160,Chelsea and Fulham,https://tacticalvote.co.uk/#ChelseaFulham,Labour
+E14001161,Cheltenham,https://tacticalvote.co.uk/#Cheltenham,Lib Dem
+E14001162,Chesham and Amersham,https://tacticalvote.co.uk/#CheshamAmersham,Lib Dem
+E14001163,Chester North and Neston,https://tacticalvote.co.uk/#ChesterNorthNeston,Labour
+E14001164,Chester South and Eddisbury,https://tacticalvote.co.uk/#ChesterSouthEddisbury,Labour
+E14001165,Chesterfield,https://tacticalvote.co.uk/#Chesterfield,Labour
+E14001166,Chichester,https://tacticalvote.co.uk/#Chichester,Lib Dem
+E14001167,Chingford and Woodford Green,https://tacticalvote.co.uk/#ChingfordWoodfordGreen,Labour
+E14001168,Chippenham,https://tacticalvote.co.uk/#Chippenham,Lib Dem
+E14001169,Chipping Barnet,https://tacticalvote.co.uk/#ChippingBarnet,Labour
+E14001170,Chorley,https://tacticalvote.co.uk/#Chorley,Any
+E14001171,Christchurch,https://tacticalvote.co.uk/#Christchurch,TBC
+E14001172,Cities of London and Westminster,https://tacticalvote.co.uk/#CitiesofLondonWestminster,Labour
+E14001173,City of Durham,https://tacticalvote.co.uk/#CityofDurham,Labour
+E14001174,Clacton,https://tacticalvote.co.uk/#Clacton,Labour
+E14001175,Clapham and Brixton Hill,https://tacticalvote.co.uk/#ClaphamBrixtonHill,Any
+E14001176,Colchester,https://tacticalvote.co.uk/#Colchester,Labour
+E14001177,Colne Valley,https://tacticalvote.co.uk/#ColneValley,Labour
+E14001178,Congleton,https://tacticalvote.co.uk/#Congleton,Labour
+E14001179,Corby and East Northamptonshire,https://tacticalvote.co.uk/#CorbyEastNorthamptonshire,Labour
+E14001180,Coventry East,https://tacticalvote.co.uk/#CoventryEast,Labour
+E14001181,Coventry North West,https://tacticalvote.co.uk/#CoventryNorthWest,Labour
+E14001182,Coventry South,https://tacticalvote.co.uk/#CoventrySouth,Labour
+E14001183,Cramlington and Killingworth,https://tacticalvote.co.uk/#CramlingtonKillingworth,Labour
+E14001184,Crawley,https://tacticalvote.co.uk/#Crawley,Labour
+E14001185,Crewe and Nantwich,https://tacticalvote.co.uk/#CreweNantwich,Labour
+E14001186,Croydon East,https://tacticalvote.co.uk/#CroydonEast,Labour
+E14001187,Croydon South,https://tacticalvote.co.uk/#CroydonSouth,Labour
+E14001188,Croydon West,https://tacticalvote.co.uk/#CroydonWest,Any
+E14001189,Dagenham and Rainham,https://tacticalvote.co.uk/#DagenhamRainham,Labour
+E14001190,Darlington,https://tacticalvote.co.uk/#Darlington,Labour
+E14001191,Dartford,https://tacticalvote.co.uk/#Dartford,Labour
+E14001192,Daventry,https://tacticalvote.co.uk/#Daventry,Labour
+E14001193,Derby North,https://tacticalvote.co.uk/#DerbyNorth,Labour
+E14001194,Derby South,https://tacticalvote.co.uk/#DerbySouth,Labour
+E14001195,Derbyshire Dales,https://tacticalvote.co.uk/#DerbyshireDales,Labour
+E14001196,Dewsbury and Batley,https://tacticalvote.co.uk/#DewsburyBatley,Labour
+E14001197,Didcot and Wantage,https://tacticalvote.co.uk/#DidcotWantage,Lib Dem
+E14001198,Doncaster Central,https://tacticalvote.co.uk/#DoncasterCentral,Labour
+E14001199,Doncaster East and the Isle of Axholme,https://tacticalvote.co.uk/#DoncasterEasttheIsleofAxholme,Labour
+E14001200,Doncaster North,https://tacticalvote.co.uk/#DoncasterNorth,Labour
+E14001201,Dorking and Horley,https://tacticalvote.co.uk/#DorkingHorley,Lib Dem
+E14001202,Dover and Deal,https://tacticalvote.co.uk/#DoverDeal,Labour
+E14001203,Droitwich and Evesham,https://tacticalvote.co.uk/#DroitwichEvesham,Labour
+E14001204,Dudley,https://tacticalvote.co.uk/#Dudley,Labour
+E14001205,Dulwich and West Norwood,https://tacticalvote.co.uk/#DulwichWestNorwood,Any
+E14001206,Dunstable and Leighton Buzzard,https://tacticalvote.co.uk/#DunstableLeightonBuzzard,Labour
+E14001207,Ealing Central and Acton,https://tacticalvote.co.uk/#EalingCentralActon,Any
+E14001208,Ealing North,https://tacticalvote.co.uk/#EalingNorth,Any
+E14001209,Ealing Southall,https://tacticalvote.co.uk/#EalingSouthall,Any
+E14001210,Earley and Woodley,https://tacticalvote.co.uk/#EarleyWoodley,Labour
+E14001211,Easington,https://tacticalvote.co.uk/#Easington,Labour
+E14001212,East Grinstead and Uckfield,https://tacticalvote.co.uk/#EastGrinsteadUckfield,TBC
+E14001213,East Ham,https://tacticalvote.co.uk/#EastHam,Labour
+E14001214,East Hampshire,https://tacticalvote.co.uk/#EastHampshire,TBC
+E14001215,East Surrey,https://tacticalvote.co.uk/#EastSurrey,TBC
+E14001216,East Thanet,https://tacticalvote.co.uk/#EastThanet,Labour
+E14001217,East Wiltshire,https://tacticalvote.co.uk/#EastWiltshire,Labour
+E14001218,East Worthing and Shoreham,https://tacticalvote.co.uk/#EastWorthingShoreham,Labour
+E14001219,Eastbourne,https://tacticalvote.co.uk/#Eastbourne,Lib Dem
+E14001220,Eastleigh,https://tacticalvote.co.uk/#Eastleigh,Lib Dem
+E14001221,Edmonton and Winchmore Hill,https://tacticalvote.co.uk/#EdmontonWinchmoreHill,Any
+E14001222,Ellesmere Port and Bromborough,https://tacticalvote.co.uk/#EllesmerePortBromborough,Any
+E14001223,Eltham and Chislehurst,https://tacticalvote.co.uk/#ElthamChislehurst,Labour
+E14001224,Ely and East Cambridgeshire,https://tacticalvote.co.uk/#ElyEastCambridgeshire,TBC
+E14001225,Enfield North,https://tacticalvote.co.uk/#EnfieldNorth,Labour
+E14001226,Epping Forest,https://tacticalvote.co.uk/#EppingForest,Labour
+E14001227,Epsom and Ewell,https://tacticalvote.co.uk/#EpsomEwell,TBC
+E14001228,Erewash,https://tacticalvote.co.uk/#Erewash,Labour
+E14001229,Erith and Thamesmead,https://tacticalvote.co.uk/#ErithThamesmead,Any
+E14001230,Esher and Walton,https://tacticalvote.co.uk/#EsherWalton,Lib Dem
+E14001231,Exeter,https://tacticalvote.co.uk/#Exeter,Any
+E14001232,Exmouth and Exeter East,https://tacticalvote.co.uk/#ExmouthExeterEast,TBC
+E14001233,Fareham and Waterlooville,https://tacticalvote.co.uk/#FarehamWaterlooville,TBC
+E14001234,Farnham and Bordon,https://tacticalvote.co.uk/#FarnhamBordon,Lib Dem
+E14001235,Faversham and Mid Kent,https://tacticalvote.co.uk/#FavershamMidKent,Labour
+E14001236,Feltham and Heston,https://tacticalvote.co.uk/#FelthamHeston,Labour
+E14001237,Filton and Bradley Stoke,https://tacticalvote.co.uk/#FiltonBradleyStoke,Labour
+E14001238,Finchley and Golders Green,https://tacticalvote.co.uk/#FinchleyGoldersGreen,TBC
+E14001239,Folkestone and Hythe,https://tacticalvote.co.uk/#FolkestoneHythe,Labour
+E14001240,Forest of Dean,https://tacticalvote.co.uk/#ForestofDean,Labour
+E14001241,Frome and East Somerset,https://tacticalvote.co.uk/#FromeEastSomerset,Lib Dem
+E14001242,Fylde,https://tacticalvote.co.uk/#Fylde,Labour
+E14001243,Gainsborough,https://tacticalvote.co.uk/#Gainsborough,Labour
+E14001244,Gateshead Central and Whickham,https://tacticalvote.co.uk/#GatesheadCentralWhickham,Labour
+E14001245,Gedling,https://tacticalvote.co.uk/#Gedling,Labour
+E14001246,Gillingham and Rainham,https://tacticalvote.co.uk/#GillinghamRainham,Labour
+E14001247,Glastonbury and Somerton,https://tacticalvote.co.uk/#GlastonburySomerton,Lib Dem
+E14001248,Gloucester,https://tacticalvote.co.uk/#Gloucester,Labour
+E14001249,Godalming and Ash,https://tacticalvote.co.uk/#GodalmingAsh,Lib Dem
+E14001250,Goole and Pocklington,https://tacticalvote.co.uk/#GoolePocklington,Labour
+E14001251,Gorton and Denton,https://tacticalvote.co.uk/#GortonDenton,Any
+E14001252,Gosport,https://tacticalvote.co.uk/#Gosport,Labour
+E14001253,Grantham and Bourne,https://tacticalvote.co.uk/#GranthamBourne,Labour
+E14001254,Gravesham,https://tacticalvote.co.uk/#Gravesham,Labour
+E14001255,Great Grimsby and Cleethorpes,https://tacticalvote.co.uk/#GreatGrimsbyCleethorpes,Labour
+E14001256,Great Yarmouth,https://tacticalvote.co.uk/#GreatYarmouth,Labour
+E14001257,Greenwich and Woolwich,https://tacticalvote.co.uk/#GreenwichWoolwich,Any
+E14001258,Guildford,https://tacticalvote.co.uk/#Guildford,Lib Dem
+E14001259,Hackney North and Stoke Newington,https://tacticalvote.co.uk/#HackneyNorthStokeNewington,Any
+E14001260,Hackney South and Shoreditch,https://tacticalvote.co.uk/#HackneySouthShoreditch,Any
+E14001261,Halesowen,https://tacticalvote.co.uk/#Halesowen,Labour
+E14001262,Halifax,https://tacticalvote.co.uk/#Halifax,Labour
+E14001263,Hamble Valley,https://tacticalvote.co.uk/#HambleValley,TBC
+E14001264,Hammersmith and Chiswick,https://tacticalvote.co.uk/#HammersmithChiswick,Any
+E14001265,Hampstead and Highgate,https://tacticalvote.co.uk/#HampsteadHighgate,Any
+E14001266,"Harborough, Oadby and Wigston",https://tacticalvote.co.uk/#HarboroughOadbyWigston,Labour
+E14001267,Harlow,https://tacticalvote.co.uk/#Harlow,Labour
+E14001268,Harpenden and Berkhamsted,https://tacticalvote.co.uk/#HarpendenBerkhamsted,Lib Dem
+E14001269,Harrogate and Knaresborough,https://tacticalvote.co.uk/#HarrogateKnaresborough,Lib Dem
+E14001270,Harrow East,https://tacticalvote.co.uk/#HarrowEast,Labour
+E14001271,Harrow West,https://tacticalvote.co.uk/#HarrowWest,Labour
+E14001272,Hartlepool,https://tacticalvote.co.uk/#Hartlepool,Labour
+E14001273,Harwich and North Essex,https://tacticalvote.co.uk/#HarwichNorthEssex,Labour
+E14001274,Hastings and Rye,https://tacticalvote.co.uk/#HastingsRye,Labour
+E14001275,Havant,https://tacticalvote.co.uk/#Havant,Labour
+E14001276,Hayes and Harlington,https://tacticalvote.co.uk/#HayesHarlington,Labour
+E14001277,Hazel Grove,https://tacticalvote.co.uk/#HazelGrove,Lib Dem
+E14001278,Hemel Hempstead,https://tacticalvote.co.uk/#HemelHempstead,Labour
+E14001279,Hendon,https://tacticalvote.co.uk/#Hendon,Labour
+E14001280,Henley and Thame,https://tacticalvote.co.uk/#HenleyThame,Lib Dem
+E14001281,Hereford and South Herefordshire,https://tacticalvote.co.uk/#HerefordSouthHerefordshire,Labour
+E14001282,Herne Bay and Sandwich,https://tacticalvote.co.uk/#HerneBaySandwich,Labour
+E14001283,Hertford and Stortford,https://tacticalvote.co.uk/#HertfordStortford,Labour
+E14001284,Hertsmere,https://tacticalvote.co.uk/#Hertsmere,Labour
+E14001285,Hexham,https://tacticalvote.co.uk/#Hexham,Labour
+E14001286,Heywood and Middleton North,https://tacticalvote.co.uk/#HeywoodMiddletonNorth,Labour
+E14001287,High Peak,https://tacticalvote.co.uk/#HighPeak,Labour
+E14001288,Hinckley and Bosworth,https://tacticalvote.co.uk/#HinckleyBosworth,TBC
+E14001289,Hitchin,https://tacticalvote.co.uk/#Hitchin,Labour
+E14001290,Holborn and St Pancras,https://tacticalvote.co.uk/#HolbornStPancras,Any
+E14001291,Honiton and Sidmouth,https://tacticalvote.co.uk/#HonitonSidmouth,Lib Dem
+E14001292,Hornchurch and Upminster,https://tacticalvote.co.uk/#HornchurchUpminster,Labour
+E14001293,Hornsey and Friern Barnet,https://tacticalvote.co.uk/#HornseyFriernBarnet,Any
+E14001294,Horsham,https://tacticalvote.co.uk/#Horsham,Lib Dem
+E14001295,Houghton and Sunderland South,https://tacticalvote.co.uk/#HoughtonSunderlandSouth,Labour
+E14001296,Hove and Portslade,https://tacticalvote.co.uk/#HovePortslade,Any
+E14001297,Huddersfield,https://tacticalvote.co.uk/#Huddersfield,Labour
+E14001298,Huntingdon,https://tacticalvote.co.uk/#Huntingdon,Labour
+E14001299,Hyndburn,https://tacticalvote.co.uk/#Hyndburn,Labour
+E14001300,Ilford North,https://tacticalvote.co.uk/#IlfordNorth,TBC
+E14001301,Ilford South,https://tacticalvote.co.uk/#IlfordSouth,Labour
+E14001302,Ipswich,https://tacticalvote.co.uk/#Ipswich,Labour
+E14001303,Isle of Wight East,https://tacticalvote.co.uk/#IsleofWightEast,TBC
+E14001304,Isle of Wight West,https://tacticalvote.co.uk/#IsleofWightWest,Labour
+E14001305,Islington North,https://tacticalvote.co.uk/#IslingtonNorth,Any
+E14001306,Islington South and Finsbury,https://tacticalvote.co.uk/#IslingtonSouthFinsbury,Any
+E14001307,Jarrow and Gateshead East,https://tacticalvote.co.uk/#JarrowGatesheadEast,Any
+E14001308,Keighley and Ilkley,https://tacticalvote.co.uk/#KeighleyIlkley,Labour
+E14001309,Kenilworth and Southam,https://tacticalvote.co.uk/#KenilworthSoutham,Labour
+E14001310,Kensington and Bayswater,https://tacticalvote.co.uk/#KensingtonBayswater,Labour
+E14001311,Kettering,https://tacticalvote.co.uk/#Kettering,Labour
+E14001312,Kingston and Surbiton,https://tacticalvote.co.uk/#KingstonSurbiton,Lib Dem
+E14001313,Kingston upon Hull East,https://tacticalvote.co.uk/#KingstonuponHullEast,Labour
+E14001314,Kingston upon Hull North and Cottingham,https://tacticalvote.co.uk/#KingstonuponHullNorthCottingham,Labour
+E14001315,Kingston upon Hull West and Haltemprice,https://tacticalvote.co.uk/#KingstonuponHullWestHaltemprice,Labour
+E14001316,Kingswinford and South Staffordshire,https://tacticalvote.co.uk/#KingswinfordSouthStaffordshire,Labour
+E14001317,Knowsley,https://tacticalvote.co.uk/#Knowsley,Any
+E14001318,Lancaster and Wyre,https://tacticalvote.co.uk/#LancasterWyre,Labour
+E14001319,Leeds Central and Headingley,https://tacticalvote.co.uk/#LeedsCentralHeadingley,Any
+E14001320,Leeds East,https://tacticalvote.co.uk/#LeedsEast,Labour
+E14001321,Leeds North East,https://tacticalvote.co.uk/#LeedsNorthEast,Any
+E14001322,Leeds North West,https://tacticalvote.co.uk/#LeedsNorthWest,Labour
+E14001323,Leeds South,https://tacticalvote.co.uk/#LeedsSouth,Any
+E14001324,Leeds South West and Morley,https://tacticalvote.co.uk/#LeedsSouthWestMorley,Labour
+E14001325,Leeds West and Pudsey,https://tacticalvote.co.uk/#LeedsWestPudsey,Labour
+E14001326,Leicester East,https://tacticalvote.co.uk/#LeicesterEast,Labour
+E14001327,Leicester South,https://tacticalvote.co.uk/#LeicesterSouth,Any
+E14001328,Leicester West,https://tacticalvote.co.uk/#LeicesterWest,Labour
+E14001329,Leigh and Atherton,https://tacticalvote.co.uk/#LeighAtherton,Labour
+E14001330,Lewes,https://tacticalvote.co.uk/#Lewes,Lib Dem
+E14001331,Lewisham East,https://tacticalvote.co.uk/#LewishamEast,Any
+E14001332,Lewisham North,https://tacticalvote.co.uk/#LewishamNorth,Any
+E14001333,Lewisham West and East Dulwich,https://tacticalvote.co.uk/#LewishamWestEastDulwich,Any
+E14001334,Leyton and Wanstead,https://tacticalvote.co.uk/#LeytonWanstead,Any
+E14001335,Lichfield,https://tacticalvote.co.uk/#Lichfield,Labour
+E14001336,Lincoln,https://tacticalvote.co.uk/#Lincoln,Labour
+E14001337,Liverpool Garston,https://tacticalvote.co.uk/#LiverpoolGarston,Any
+E14001338,Liverpool Riverside,https://tacticalvote.co.uk/#LiverpoolRiverside,Any
+E14001339,Liverpool Walton,https://tacticalvote.co.uk/#LiverpoolWalton,Any
+E14001340,Liverpool Wavertree,https://tacticalvote.co.uk/#LiverpoolWavertree,Any
+E14001341,Liverpool West Derby,https://tacticalvote.co.uk/#LiverpoolWestDerby,Any
+E14001342,Loughborough,https://tacticalvote.co.uk/#Loughborough,Labour
+E14001343,Louth and Horncastle,https://tacticalvote.co.uk/#LouthHorncastle,Labour
+E14001344,Lowestoft,https://tacticalvote.co.uk/#Lowestoft,Labour
+E14001345,Luton North,https://tacticalvote.co.uk/#LutonNorth,Labour
+E14001346,Luton South and South Bedfordshire,https://tacticalvote.co.uk/#LutonSouthSouthBedfordshire,Labour
+E14001347,Macclesfield,https://tacticalvote.co.uk/#Macclesfield,Labour
+E14001348,Maidenhead,https://tacticalvote.co.uk/#Maidenhead,TBC
+E14001349,Maidstone and Malling,https://tacticalvote.co.uk/#MaidstoneMalling,TBC
+E14001350,Makerfield,https://tacticalvote.co.uk/#Makerfield,Labour
+E14001351,Maldon,https://tacticalvote.co.uk/#Maldon,Labour
+E14001352,Manchester Central,https://tacticalvote.co.uk/#ManchesterCentral,Any
+E14001353,Manchester Rusholme,https://tacticalvote.co.uk/#ManchesterRusholme,Any
+E14001354,Manchester Withington,https://tacticalvote.co.uk/#ManchesterWithington,Any
+E14001355,Mansfield,https://tacticalvote.co.uk/#Mansfield,Labour
+E14001356,Melksham and Devizes,https://tacticalvote.co.uk/#MelkshamDevizes,TBC
+E14001357,Melton and Syston,https://tacticalvote.co.uk/#MeltonSyston,Labour
+E14001358,Meriden and Solihull East,https://tacticalvote.co.uk/#MeridenSolihullEast,Labour
+E14001359,Mid Bedfordshire,https://tacticalvote.co.uk/#MidBedfordshire,Labour
+E14001360,Mid Buckinghamshire,https://tacticalvote.co.uk/#MidBuckinghamshire,TBC
+E14001361,Mid Cheshire,https://tacticalvote.co.uk/#MidCheshire,Labour
+E14001362,Mid Derbyshire,https://tacticalvote.co.uk/#MidDerbyshire,Labour
+E14001363,Mid Dorset and North Poole,https://tacticalvote.co.uk/#MidDorsetNorthPoole,Lib Dem
+E14001364,Mid Leicestershire,https://tacticalvote.co.uk/#MidLeicestershire,Labour
+E14001365,Mid Norfolk,https://tacticalvote.co.uk/#MidNorfolk,Labour
+E14001366,Mid Sussex,https://tacticalvote.co.uk/#MidSussex,TBC
+E14001367,Middlesbrough and Thornaby East,https://tacticalvote.co.uk/#MiddlesbroughThornabyEast,Any
+E14001368,Middlesbrough South and East Cleveland,https://tacticalvote.co.uk/#MiddlesbroughSouthEastCleveland,Labour
+E14001369,Milton Keynes Central,https://tacticalvote.co.uk/#MiltonKeynesCentral,Labour
+E14001370,Milton Keynes North,https://tacticalvote.co.uk/#MiltonKeynesNorth,Labour
+E14001371,Mitcham and Morden,https://tacticalvote.co.uk/#MitchamMorden,Any
+E14001372,Morecambe and Lunesdale,https://tacticalvote.co.uk/#MorecambeLunesdale,Labour
+E14001373,New Forest East,https://tacticalvote.co.uk/#NewForestEast,Labour
+E14001374,New Forest West,https://tacticalvote.co.uk/#NewForestWest,TBC
+E14001375,Newark,https://tacticalvote.co.uk/#Newark,Labour
+E14001376,Newbury,https://tacticalvote.co.uk/#Newbury,Lib Dem
+E14001377,Newcastle upon Tyne Central and West,https://tacticalvote.co.uk/#NewcastleuponTyneCentralWest,Any
+E14001378,Newcastle upon Tyne East and Wallsend,https://tacticalvote.co.uk/#NewcastleuponTyneEastWallsend,Any
+E14001379,Newcastle upon Tyne North,https://tacticalvote.co.uk/#NewcastleuponTyneNorth,Labour
+E14001380,Newcastle-under-Lyme,https://tacticalvote.co.uk/#NewcastleunderLyme,Labour
+E14001381,Newton Abbot,https://tacticalvote.co.uk/#NewtonAbbot,TBC
+E14001382,Newton Aycliffe and Spennymoor,https://tacticalvote.co.uk/#NewtonAycliffeSpennymoor,Labour
+E14001383,Normanton and Hemsworth,https://tacticalvote.co.uk/#NormantonHemsworth,Labour
+E14001384,North Bedfordshire,https://tacticalvote.co.uk/#NorthBedfordshire,Labour
+E14001385,North Cornwall,https://tacticalvote.co.uk/#NorthCornwall,Lib Dem
+E14001386,North Cotswolds,https://tacticalvote.co.uk/#NorthCotswolds,TBC
+E14001387,North Devon,https://tacticalvote.co.uk/#NorthDevon,Lib Dem
+E14001388,North Dorset,https://tacticalvote.co.uk/#NorthDorset,TBC
+E14001389,North Durham,https://tacticalvote.co.uk/#NorthDurham,Labour
+E14001390,North East Cambridgeshire,https://tacticalvote.co.uk/#NorthEastCambridgeshire,Labour
+E14001391,North East Derbyshire,https://tacticalvote.co.uk/#NorthEastDerbyshire,Labour
+E14001392,North East Hampshire,https://tacticalvote.co.uk/#NorthEastHampshire,TBC
+E14001393,North East Hertfordshire,https://tacticalvote.co.uk/#NorthEastHertfordshire,Labour
+E14001394,North East Somerset and Hanham,https://tacticalvote.co.uk/#NorthEastSomersetHanham,Labour
+E14001395,North Herefordshire,https://tacticalvote.co.uk/#NorthHerefordshire,Green
+E14001396,North Norfolk,https://tacticalvote.co.uk/#NorthNorfolk,Lib Dem
+E14001397,North Northumberland,https://tacticalvote.co.uk/#NorthNorthumberland,Labour
+E14001398,North Shropshire,https://tacticalvote.co.uk/#NorthShropshire,Lib Dem
+E14001399,North Somerset,https://tacticalvote.co.uk/#NorthSomerset,Labour
+E14001400,North Warwickshire and Bedworth,https://tacticalvote.co.uk/#NorthWarwickshireBedworth,Labour
+E14001401,North West Cambridgeshire,https://tacticalvote.co.uk/#NorthWestCambridgeshire,Labour
+E14001402,North West Essex,https://tacticalvote.co.uk/#NorthWestEssex,TBC
+E14001403,North West Hampshire,https://tacticalvote.co.uk/#NorthWestHampshire,TBC
+E14001404,North West Leicestershire,https://tacticalvote.co.uk/#NorthWestLeicestershire,Labour
+E14001405,North West Norfolk,https://tacticalvote.co.uk/#NorthWestNorfolk,Labour
+E14001406,Northampton North,https://tacticalvote.co.uk/#NorthamptonNorth,Labour
+E14001407,Northampton South,https://tacticalvote.co.uk/#NorthamptonSouth,Labour
+E14001408,Norwich North,https://tacticalvote.co.uk/#NorwichNorth,Labour
+E14001409,Norwich South,https://tacticalvote.co.uk/#NorwichSouth,Any
+E14001410,Nottingham East,https://tacticalvote.co.uk/#NottinghamEast,Any
+E14001411,Nottingham North and Kimberley,https://tacticalvote.co.uk/#NottinghamNorthKimberley,Labour
+E14001412,Nottingham South,https://tacticalvote.co.uk/#NottinghamSouth,Labour
+E14001413,Nuneaton,https://tacticalvote.co.uk/#Nuneaton,Labour
+E14001414,Old Bexley and Sidcup,https://tacticalvote.co.uk/#OldBexleySidcup,Labour
+E14001415,Oldham East and Saddleworth,https://tacticalvote.co.uk/#OldhamEastSaddleworth,Labour
+E14001416,"Oldham West, Chadderton and Royton",https://tacticalvote.co.uk/#OldhamWestChaddertonRoyton,Labour
+E14001417,Orpington,https://tacticalvote.co.uk/#Orpington,Labour
+E14001418,Ossett and Denby Dale,https://tacticalvote.co.uk/#OssettDenbyDale,Labour
+E14001419,Oxford East,https://tacticalvote.co.uk/#OxfordEast,Any
+E14001420,Oxford West and Abingdon,https://tacticalvote.co.uk/#OxfordWestAbingdon,Lib Dem
+E14001421,Peckham,https://tacticalvote.co.uk/#Peckham,Any
+E14001422,Pendle and Clitheroe,https://tacticalvote.co.uk/#PendleClitheroe,Labour
+E14001423,Penistone and Stocksbridge,https://tacticalvote.co.uk/#PenistoneStocksbridge,Labour
+E14001424,Penrith and Solway,https://tacticalvote.co.uk/#PenrithSolway,Labour
+E14001425,Peterborough,https://tacticalvote.co.uk/#Peterborough,Labour
+E14001426,Plymouth Moor View,https://tacticalvote.co.uk/#PlymouthMoorView,Labour
+E14001427,Plymouth Sutton and Devonport,https://tacticalvote.co.uk/#PlymouthSuttonDevonport,Labour
+E14001428,"Pontefract, Castleford and Knottingley",https://tacticalvote.co.uk/#PontefractCastlefordKnottingley,Labour
+E14001429,Poole,https://tacticalvote.co.uk/#Poole,Labour
+E14001430,Poplar and Limehouse,https://tacticalvote.co.uk/#PoplarLimehouse,Any
+E14001431,Portsmouth North,https://tacticalvote.co.uk/#PortsmouthNorth,Labour
+E14001432,Portsmouth South,https://tacticalvote.co.uk/#PortsmouthSouth,Labour
+E14001433,Preston,https://tacticalvote.co.uk/#Preston,Any
+E14001434,Putney,https://tacticalvote.co.uk/#Putney,Labour
+E14001435,Queen's Park and Maida Vale,https://tacticalvote.co.uk/#QueensParkMaidaVale,Any
+E14001436,Rawmarsh and Conisbrough,https://tacticalvote.co.uk/#RawmarshConisbrough,Labour
+E14001437,Rayleigh and Wickford,https://tacticalvote.co.uk/#RayleighWickford,Labour
+E14001438,Reading Central,https://tacticalvote.co.uk/#ReadingCentral,Labour
+E14001439,Reading West and Mid Berkshire,https://tacticalvote.co.uk/#ReadingWestMidBerkshire,Labour
+E14001440,Redcar,https://tacticalvote.co.uk/#Redcar,Labour
+E14001441,Redditch,https://tacticalvote.co.uk/#Redditch,Labour
+E14001442,Reigate,https://tacticalvote.co.uk/#Reigate,TBC
+E14001443,Ribble Valley,https://tacticalvote.co.uk/#RibbleValley,Labour
+E14001444,Richmond and Northallerton,https://tacticalvote.co.uk/#RichmondNorthallerton,Labour
+E14001445,Richmond Park,https://tacticalvote.co.uk/#RichmondPark,Lib Dem
+E14001446,Rochdale,https://tacticalvote.co.uk/#Rochdale,Labour
+E14001447,Rochester and Strood,https://tacticalvote.co.uk/#RochesterStrood,Labour
+E14001448,Romford,https://tacticalvote.co.uk/#Romford,Labour
+E14001449,Romsey and Southampton North,https://tacticalvote.co.uk/#RomseySouthamptonNorth,Lib Dem
+E14001450,Rossendale and Darwen,https://tacticalvote.co.uk/#RossendaleDarwen,Labour
+E14001451,Rother Valley,https://tacticalvote.co.uk/#RotherValley,Labour
+E14001452,Rotherham,https://tacticalvote.co.uk/#Rotherham,Labour
+E14001453,Rugby,https://tacticalvote.co.uk/#Rugby,Labour
+E14001454,"Ruislip, Northwood and Pinner",https://tacticalvote.co.uk/#RuislipNorthwoodPinner,Labour
+E14001455,Runcorn and Helsby,https://tacticalvote.co.uk/#RuncornHelsby,Labour
+E14001456,Runnymede and Weybridge,https://tacticalvote.co.uk/#RunnymedeWeybridge,TBC
+E14001457,Rushcliffe,https://tacticalvote.co.uk/#Rushcliffe,Labour
+E14001458,Rutland and Stamford,https://tacticalvote.co.uk/#RutlandStamford,TBC
+E14001459,Salford,https://tacticalvote.co.uk/#Salford,Any
+E14001460,Salisbury,https://tacticalvote.co.uk/#Salisbury,TBC
+E14001461,Scarborough and Whitby,https://tacticalvote.co.uk/#ScarboroughWhitby,Labour
+E14001462,Scunthorpe,https://tacticalvote.co.uk/#Scunthorpe,Labour
+E14001463,Sefton Central,https://tacticalvote.co.uk/#SeftonCentral,Labour
+E14001464,Selby,https://tacticalvote.co.uk/#Selby,Labour
+E14001465,Sevenoaks,https://tacticalvote.co.uk/#Sevenoaks,TBC
+E14001466,Sheffield Brightside and Hillsborough,https://tacticalvote.co.uk/#SheffieldBrightsideHillsborough,Any
+E14001467,Sheffield Central,https://tacticalvote.co.uk/#SheffieldCentral,Any
+E14001468,Sheffield Hallam,https://tacticalvote.co.uk/#SheffieldHallam,Any
+E14001469,Sheffield Heeley,https://tacticalvote.co.uk/#SheffieldHeeley,Any
+E14001470,Sheffield South East,https://tacticalvote.co.uk/#SheffieldSouthEast,Labour
+E14001471,Sherwood Forest,https://tacticalvote.co.uk/#SherwoodForest,Labour
+E14001472,Shipley,https://tacticalvote.co.uk/#Shipley,Labour
+E14001473,Shrewsbury,https://tacticalvote.co.uk/#Shrewsbury,Labour
+E14001474,Sittingbourne and Sheppey,https://tacticalvote.co.uk/#SittingbourneSheppey,Labour
+E14001475,Skipton and Ripon,https://tacticalvote.co.uk/#SkiptonRipon,Labour
+E14001476,Sleaford and North Hykeham,https://tacticalvote.co.uk/#SleafordNorthHykeham,Labour
+E14001477,Slough,https://tacticalvote.co.uk/#Slough,Labour
+E14001478,Smethwick,https://tacticalvote.co.uk/#Smethwick,Any
+E14001479,Solihull West and Shirley,https://tacticalvote.co.uk/#SolihullWestShirley,Labour
+E14001480,South Basildon and East Thurrock,https://tacticalvote.co.uk/#SouthBasildonEastThurrock,Labour
+E14001481,South Cambridgeshire,https://tacticalvote.co.uk/#SouthCambridgeshire,LD
+E14001482,South Cotswolds,https://tacticalvote.co.uk/#SouthCotswolds,Lib Dem
+E14001483,South Derbyshire,https://tacticalvote.co.uk/#SouthDerbyshire,Labour
+E14001484,South Devon,https://tacticalvote.co.uk/#SouthDevon,Lib Dem
+E14001485,South Dorset,https://tacticalvote.co.uk/#SouthDorset,Labour
+E14001486,South East Cornwall,https://tacticalvote.co.uk/#SouthEastCornwall,Labour
+E14001487,South Holland and The Deepings,https://tacticalvote.co.uk/#SouthHollandTheDeepings,Labour
+E14001488,South Leicestershire,https://tacticalvote.co.uk/#SouthLeicestershire,Labour
+E14001489,South Norfolk,https://tacticalvote.co.uk/#SouthNorfolk,Labour
+E14001490,South Northamptonshire,https://tacticalvote.co.uk/#SouthNorthamptonshire,Labour
+E14001491,South Ribble,https://tacticalvote.co.uk/#SouthRibble,Labour
+E14001492,South Shields,https://tacticalvote.co.uk/#SouthShields,Any
+E14001493,South Shropshire,https://tacticalvote.co.uk/#SouthShropshire,Labour
+E14001494,South Suffolk,https://tacticalvote.co.uk/#SouthSuffolk,Labour
+E14001495,South West Devon,https://tacticalvote.co.uk/#SouthWestDevon,Labour
+E14001496,South West Hertfordshire,https://tacticalvote.co.uk/#SouthWestHertfordshire,Labour
+E14001497,South West Norfolk,https://tacticalvote.co.uk/#SouthWestNorfolk,Labour
+E14001498,South West Wiltshire,https://tacticalvote.co.uk/#SouthWestWiltshire,Labour
+E14001499,Southampton Itchen,https://tacticalvote.co.uk/#SouthamptonItchen,Labour
+E14001500,Southampton Test,https://tacticalvote.co.uk/#SouthamptonTest,Labour
+E14001501,Southend East and Rochford,https://tacticalvote.co.uk/#SouthendEastRochford,Labour
+E14001502,Southend West and Leigh,https://tacticalvote.co.uk/#SouthendWestLeigh,Labour
+E14001503,Southgate and Wood Green,https://tacticalvote.co.uk/#SouthgateWoodGreen,Any
+E14001504,Southport,https://tacticalvote.co.uk/#Southport,Labour
+E14001505,Spelthorne,https://tacticalvote.co.uk/#Spelthorne,Labour
+E14001506,Spen Valley,https://tacticalvote.co.uk/#SpenValley,Labour
+E14001507,St Albans,https://tacticalvote.co.uk/#StAlbans,Lib Dem
+E14001508,St Austell and Newquay,https://tacticalvote.co.uk/#StAustellNewquay,Labour
+E14001509,St Helens North,https://tacticalvote.co.uk/#StHelensNorth,Any
+E14001510,St Helens South and Whiston,https://tacticalvote.co.uk/#StHelensSouthWhiston,Any
+E14001511,St Ives,https://tacticalvote.co.uk/#StIves,Lib Dem
+E14001512,St Neots and Mid Cambridgeshire,https://tacticalvote.co.uk/#StNeotsMidCambridgeshire,TBC
+E14001513,Stafford,https://tacticalvote.co.uk/#Stafford,Labour
+E14001514,Staffordshire Moorlands,https://tacticalvote.co.uk/#StaffordshireMoorlands,Labour
+E14001515,Stalybridge and Hyde,https://tacticalvote.co.uk/#StalybridgeHyde,Labour
+E14001516,Stevenage,https://tacticalvote.co.uk/#Stevenage,Labour
+E14001517,Stockport,https://tacticalvote.co.uk/#Stockport,Any
+E14001518,Stockton North,https://tacticalvote.co.uk/#StocktonNorth,Labour
+E14001519,Stockton West,https://tacticalvote.co.uk/#StocktonWest,Labour
+E14001520,Stoke-on-Trent Central,https://tacticalvote.co.uk/#StokeonTrentCentral,Labour
+E14001521,Stoke-on-Trent North,https://tacticalvote.co.uk/#StokeonTrentNorth,Labour
+E14001522,Stoke-on-Trent South,https://tacticalvote.co.uk/#StokeonTrentSouth,Labour
+E14001523,"Stone, Great Wyrley and Penkridge",https://tacticalvote.co.uk/#StoneGreatWyrleyPenkridge,Labour
+E14001524,Stourbridge,https://tacticalvote.co.uk/#Stourbridge,Labour
+E14001525,Stratford and Bow,https://tacticalvote.co.uk/#StratfordBow,Any
+E14001526,Stratford-on-Avon,https://tacticalvote.co.uk/#StratfordonAvon,Lib Dem
+E14001527,Streatham and Croydon North,https://tacticalvote.co.uk/#StreathamCroydonNorth,Any
+E14001528,Stretford and Urmston,https://tacticalvote.co.uk/#StretfordUrmston,Any
+E14001529,Stroud,https://tacticalvote.co.uk/#Stroud,Labour
+E14001530,Suffolk Coastal,https://tacticalvote.co.uk/#SuffolkCoastal,Labour
+E14001531,Sunderland Central,https://tacticalvote.co.uk/#SunderlandCentral,Labour
+E14001532,Surrey Heath,https://tacticalvote.co.uk/#SurreyHeath,Lib Dem
+E14001533,Sussex Weald,https://tacticalvote.co.uk/#SussexWeald,TBC
+E14001534,Sutton and Cheam,https://tacticalvote.co.uk/#SuttonCheam,Lib Dem
+E14001535,Sutton Coldfield,https://tacticalvote.co.uk/#SuttonColdfield,Labour
+E14001536,Swindon North,https://tacticalvote.co.uk/#SwindonNorth,Labour
+E14001537,Swindon South,https://tacticalvote.co.uk/#SwindonSouth,Labour
+E14001538,Tamworth,https://tacticalvote.co.uk/#Tamworth,Labour
+E14001539,Tatton,https://tacticalvote.co.uk/#Tatton,Labour
+E14001540,Taunton and Wellington,https://tacticalvote.co.uk/#TauntonWellington,Lib Dem
+E14001541,Telford,https://tacticalvote.co.uk/#Telford,Labour
+E14001542,Tewkesbury,https://tacticalvote.co.uk/#Tewkesbury,TBC
+E14001543,The Wrekin,https://tacticalvote.co.uk/#TheWrekin,Labour
+E14001544,Thirsk and Malton,https://tacticalvote.co.uk/#ThirskMalton,Labour
+E14001545,Thornbury and Yate,https://tacticalvote.co.uk/#ThornburyYate,Lib Dem
+E14001546,Thurrock,https://tacticalvote.co.uk/#Thurrock,Labour
+E14001547,Tipton and Wednesbury,https://tacticalvote.co.uk/#TiptonWednesbury,Labour
+E14001548,Tiverton and Minehead,https://tacticalvote.co.uk/#TivertonMinehead,Lib Dem
+E14001549,Tonbridge,https://tacticalvote.co.uk/#Tonbridge,Labour
+E14001550,Tooting,https://tacticalvote.co.uk/#Tooting,Any
+E14001551,Torbay,https://tacticalvote.co.uk/#Torbay,TBC
+E14001552,Torridge and Tavistock,https://tacticalvote.co.uk/#TorridgeTavistock,TBC
+E14001553,Tottenham,https://tacticalvote.co.uk/#Tottenham,Any
+E14001554,Truro and Falmouth,https://tacticalvote.co.uk/#TruroFalmouth,Labour
+E14001555,Tunbridge Wells,https://tacticalvote.co.uk/#TunbridgeWells,Lib Dem
+E14001556,Twickenham,https://tacticalvote.co.uk/#Twickenham,Lib Dem
+E14001557,Tynemouth,https://tacticalvote.co.uk/#Tynemouth,Labour
+E14001558,Uxbridge and South Ruislip,https://tacticalvote.co.uk/#UxbridgeSouthRuislip,Labour
+E14001559,Vauxhall and Camberwell Green,https://tacticalvote.co.uk/#VauxhallCamberwellGreen,Any
+E14001560,Wakefield and Rothwell,https://tacticalvote.co.uk/#WakefieldRothwell,Labour
+E14001561,Wallasey,https://tacticalvote.co.uk/#Wallasey,Any
+E14001562,Walsall and Bloxwich,https://tacticalvote.co.uk/#WalsallBloxwich,Labour
+E14001563,Walthamstow,https://tacticalvote.co.uk/#Walthamstow,Any
+E14001564,Warrington North,https://tacticalvote.co.uk/#WarringtonNorth,Labour
+E14001565,Warrington South,https://tacticalvote.co.uk/#WarringtonSouth,Labour
+E14001566,Warwick and Leamington,https://tacticalvote.co.uk/#WarwickLeamington,Labour
+E14001567,Washington and Gateshead South,https://tacticalvote.co.uk/#WashingtonGatesheadSouth,Labour
+E14001568,Watford,https://tacticalvote.co.uk/#Watford,Labour
+E14001569,Waveney Valley,https://tacticalvote.co.uk/#WaveneyValley,Green
+E14001570,Weald of Kent,https://tacticalvote.co.uk/#WealdofKent,Labour
+E14001571,Wellingborough and Rushden,https://tacticalvote.co.uk/#WellingboroughRushden,Labour
+E14001572,Wells and Mendip Hills,https://tacticalvote.co.uk/#WellsMendipHills,Lib Dem
+E14001573,Welwyn Hatfield,https://tacticalvote.co.uk/#WelwynHatfield,Labour
+E14001574,West Bromwich,https://tacticalvote.co.uk/#WestBromwich,Labour
+E14001575,West Dorset,https://tacticalvote.co.uk/#WestDorset,Lib Dem
+E14001576,West Ham and Beckton,https://tacticalvote.co.uk/#WestHamBeckton,Any
+E14001577,West Lancashire,https://tacticalvote.co.uk/#WestLancashire,Any
+E14001578,West Suffolk,https://tacticalvote.co.uk/#WestSuffolk,Labour
+E14001579,West Worcestershire,https://tacticalvote.co.uk/#WestWorcestershire,TBC
+E14001580,Westmorland and Lonsdale,https://tacticalvote.co.uk/#WestmorlandLonsdale,Lib Dem
+E14001581,Weston-super-Mare,https://tacticalvote.co.uk/#WestonsuperMare,Labour
+E14001582,Wetherby and Easingwold,https://tacticalvote.co.uk/#WetherbyEasingwold,Labour
+E14001583,Whitehaven and Workington,https://tacticalvote.co.uk/#WhitehavenWorkington,Labour
+E14001584,Widnes and Halewood,https://tacticalvote.co.uk/#WidnesHalewood,Any
+E14001585,Wigan,https://tacticalvote.co.uk/#Wigan,Labour
+E14001586,Wimbledon,https://tacticalvote.co.uk/#Wimbledon,Lib Dem
+E14001587,Winchester,https://tacticalvote.co.uk/#Winchester,Lib Dem
+E14001588,Windsor,https://tacticalvote.co.uk/#Windsor,Labour
+E14001589,Wirral West,https://tacticalvote.co.uk/#WirralWest,Labour
+E14001590,Witham,https://tacticalvote.co.uk/#Witham,Labour
+E14001591,Witney,https://tacticalvote.co.uk/#Witney,TBC
+E14001592,Woking,https://tacticalvote.co.uk/#Woking,Lib Dem
+E14001593,Wokingham,https://tacticalvote.co.uk/#Wokingham,Lib Dem
+E14001594,Wolverhampton North East,https://tacticalvote.co.uk/#WolverhamptonNorthEast,Labour
+E14001595,Wolverhampton South East,https://tacticalvote.co.uk/#WolverhamptonSouthEast,Labour
+E14001596,Wolverhampton West,https://tacticalvote.co.uk/#WolverhamptonWest,Labour
+E14001597,Worcester,https://tacticalvote.co.uk/#Worcester,Labour
+E14001598,Worsley and Eccles,https://tacticalvote.co.uk/#WorsleyEccles,Labour
+E14001599,Worthing West,https://tacticalvote.co.uk/#WorthingWest,Labour
+E14001600,Wycombe,https://tacticalvote.co.uk/#Wycombe,Labour
+E14001601,Wyre Forest,https://tacticalvote.co.uk/#WyreForest,Labour
+E14001602,Wythenshawe and Sale East,https://tacticalvote.co.uk/#WythenshaweSaleEast,Any
+E14001603,Yeovil,https://tacticalvote.co.uk/#Yeovil,Lib Dem
+E14001604,York Central,https://tacticalvote.co.uk/#YorkCentral,Any
+E14001605,York Outer,https://tacticalvote.co.uk/#YorkOuter,Labour
+N05000001,Belfast East,https://tacticalvote.co.uk/#BelfastEast,Alliance
+N05000002,Belfast North,https://tacticalvote.co.uk/#BelfastNorth,Sinn Fï¿½in
+N05000003,Belfast South and Mid Down,https://tacticalvote.co.uk/#BelfastSouthMidDown,SDLP
+N05000004,Belfast West,https://tacticalvote.co.uk/#BelfastWest,Sinn Fï¿½in
+N05000005,East Antrim,https://tacticalvote.co.uk/#EastAntrim,Alliance
+N05000006,East Londonderry,https://tacticalvote.co.uk/#EastLondonderry,TBC
+N05000007,Fermanagh and South Tyrone,https://tacticalvote.co.uk/#FermanaghSouthTyrone,Sinn Fï¿½in
+N05000008,Foyle,https://tacticalvote.co.uk/#Foyle,Any
+N05000009,Lagan Valley,https://tacticalvote.co.uk/#LaganValley,Alliance
+N05000010,Mid Ulster,https://tacticalvote.co.uk/#MidUlster,Sinn Fï¿½in
+N05000011,Newry and Armagh,https://tacticalvote.co.uk/#NewryArmagh,Any
+N05000012,North Antrim,https://tacticalvote.co.uk/#NorthAntrim,Any
+N05000013,North Down,https://tacticalvote.co.uk/#NorthDown,Alliance
+N05000014,South Antrim,https://tacticalvote.co.uk/#SouthAntrim,TBC
+N05000015,South Down,https://tacticalvote.co.uk/#SouthDown,Any
+N05000016,Strangford,https://tacticalvote.co.uk/#Strangford,Alliance
+N05000017,Upper Bann,https://tacticalvote.co.uk/#UpperBann,Sinn Fï¿½in
+N05000018,West Tyrone,https://tacticalvote.co.uk/#WestTyrone,Any
+S14000060,Aberdeen North,https://tacticalvote.co.uk/#AberdeenNorth,Any
+S14000061,Aberdeen South,https://tacticalvote.co.uk/#AberdeenSouth,SNP
+S14000062,Aberdeenshire North and Moray East,https://tacticalvote.co.uk/#AberdeenshireNorthMorayEast,SNP
+S14000063,Airdrie and Shotts,https://tacticalvote.co.uk/#AirdrieShotts,Any
+S14000064,Alloa and Grangemouth,https://tacticalvote.co.uk/#AlloaGrangemouth,Any
+S14000065,Angus and Perthshire Glens,https://tacticalvote.co.uk/#AngusPerthshireGlens,SNP
+S14000066,Arbroath and Broughty Ferry,https://tacticalvote.co.uk/#ArbroathBroughtyFerry,SNP
+S14000067,"Argyll, Bute and South Lochaber",https://tacticalvote.co.uk/#ArgyllButeSouthLochaber,SNP
+S14000006,"Ayr, Carrick and Cumnock",https://tacticalvote.co.uk/#AyrCarrickCumnock,SNP
+S14000068,Bathgate and Linlithgow,https://tacticalvote.co.uk/#BathgateLinlithgow,TBC
+S14000008,"Berwickshire, Roxburgh and Selkirk",https://tacticalvote.co.uk/#BerwickshireRoxburghSelkirk,SNP
+S14000069,"Caithness, Sutherland and Easter Ross",https://tacticalvote.co.uk/#CaithnessSutherlandEasterRoss,Any
+S14000010,Central Ayrshire,https://tacticalvote.co.uk/#CentralAyrshire,SNP
+S14000070,Coatbridge and Bellshill,https://tacticalvote.co.uk/#CoatbridgeBellshill,Any
+S14000071,Cowdenbeath and Kirkcaldy,https://tacticalvote.co.uk/#CowdenbeathKirkcaldy,TBC
+S14000072,Cumbernauld and Kirkintilloch,https://tacticalvote.co.uk/#CumbernauldKirkintilloch,Any
+S14000073,Dumfries and Galloway,https://tacticalvote.co.uk/#DumfriesGalloway,SNP
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",https://tacticalvote.co.uk/#DumfriesshireClydesdaleTweeddale,SNP
+S14000075,Dundee Central,https://tacticalvote.co.uk/#DundeeCentral,Any
+S14000076,Dunfermline and Dollar,https://tacticalvote.co.uk/#DunfermlineDollar,Any
+S14000077,East Kilbride and Strathaven,https://tacticalvote.co.uk/#EastKilbrideStrathaven,Any
+S14000021,East Renfrewshire,https://tacticalvote.co.uk/#EastRenfrewshire,SNP
+S14000078,Edinburgh East and Musselburgh,https://tacticalvote.co.uk/#EdinburghEastMusselburgh,Any
+S14000079,Edinburgh North and Leith,https://tacticalvote.co.uk/#EdinburghNorthLeith,Any
+S14000080,Edinburgh South,https://tacticalvote.co.uk/#EdinburghSouth,Any
+S14000081,Edinburgh South West,https://tacticalvote.co.uk/#EdinburghSouthWest,Any
+S14000082,Edinburgh West,https://tacticalvote.co.uk/#EdinburghWest,Any
+S14000083,Falkirk,https://tacticalvote.co.uk/#Falkirk,Any
+S14000084,Glasgow East,https://tacticalvote.co.uk/#GlasgowEast,Any
+S14000085,Glasgow North,https://tacticalvote.co.uk/#GlasgowNorth,Any
+S14000086,Glasgow North East,https://tacticalvote.co.uk/#GlasgowNorthEast,Any
+S14000087,Glasgow South,https://tacticalvote.co.uk/#GlasgowSouth,Any
+S14000088,Glasgow South West,https://tacticalvote.co.uk/#GlasgowSouthWest,Any
+S14000089,Glasgow West,https://tacticalvote.co.uk/#GlasgowWest,Any
+S14000090,Glenrothes and Mid Fife,https://tacticalvote.co.uk/#GlenrothesMidFife,Any
+S14000091,Gordon and Buchan,https://tacticalvote.co.uk/#GordonBuchan,SNP
+S14000092,Hamilton and Clyde Valley,https://tacticalvote.co.uk/#HamiltonClydeValley,Any
+S14000093,Inverclyde and Renfrewshire West,https://tacticalvote.co.uk/#InverclydeRenfrewshireWest,Any
+S14000094,"Inverness, Skye and West Ross-shire",https://tacticalvote.co.uk/#InvernessSkyeWestRossshire,Any
+S14000040,Kilmarnock and Loudoun,https://tacticalvote.co.uk/#KilmarnockLoudoun,Any
+S14000095,Livingston,https://tacticalvote.co.uk/#Livingston,Any
+S14000096,Lothian East,https://tacticalvote.co.uk/#LothianEast,Labour or SNP
+S14000097,Mid Dunbartonshire,https://tacticalvote.co.uk/#MidDunbartonshire,Any
+S14000045,Midlothian,https://tacticalvote.co.uk/#Midlothian,Any
+S14000098,"Moray West, Nairn and Strathspey",https://tacticalvote.co.uk/#MorayWestNairnStrathspey,SNP
+S14000099,"Motherwell, Wishaw and Carluke",https://tacticalvote.co.uk/#MotherwellWishawCarluke,Any
+S14000027,Na h-Eileanan an Iar,https://tacticalvote.co.uk/#NahEileanananIar,Any
+S14000048,North Ayrshire and Arran,https://tacticalvote.co.uk/#NorthAyrshireArran,SNP
+S14000100,North East Fife,https://tacticalvote.co.uk/#NorthEastFife,Any
+S14000051,Orkney and Shetland,https://tacticalvote.co.uk/#OrkneyShetland,Any
+S14000101,Paisley and Renfrewshire North,https://tacticalvote.co.uk/#PaisleyRenfrewshireNorth,Any
+S14000102,Paisley and Renfrewshire South,https://tacticalvote.co.uk/#PaisleyRenfrewshireSouth,Any
+S14000103,Perth and Kinross-shire,https://tacticalvote.co.uk/#PerthKinrossshire,SNP
+S14000104,Rutherglen,https://tacticalvote.co.uk/#Rutherglen,Any
+S14000105,Stirling and Strathallan,https://tacticalvote.co.uk/#StirlingStrathallan,SNP
+S14000058,West Aberdeenshire and Kincardine,https://tacticalvote.co.uk/#WestAberdeenshireKincardine,SNP
+S14000106,West Dunbartonshire,https://tacticalvote.co.uk/#WestDunbartonshire,Any
+W07000081,Aberafan Maesteg,https://tacticalvote.co.uk/#AberafanMaesteg,Any
+W07000082,Alyn and Deeside,https://tacticalvote.co.uk/#AlynDeeside,Labour
+W07000083,Bangor Aberconwy,https://tacticalvote.co.uk/#BangorAberconwy,Labour
+W07000084,Blaenau Gwent and Rhymney,https://tacticalvote.co.uk/#BlaenauGwentRhymney,Labour
+W07000085,"Brecon, Radnor and Cwm Tawe",https://tacticalvote.co.uk/#BreconRadnorCwmTawe,TBC
+W07000086,Bridgend,https://tacticalvote.co.uk/#Bridgend,Labour
+W07000087,Caerfyrddin,https://tacticalvote.co.uk/#Caerfyrddin,Plaid Cymru
+W07000088,Caerphilly,https://tacticalvote.co.uk/#Caerphilly,Labour
+W07000089,Cardiff East,https://tacticalvote.co.uk/#CardiffEast,Any
+W07000090,Cardiff North,https://tacticalvote.co.uk/#CardiffNorth,Labour
+W07000091,Cardiff South and Penarth,https://tacticalvote.co.uk/#CardiffSouthPenarth,Labour
+W07000092,Cardiff West,https://tacticalvote.co.uk/#CardiffWest,Any
+W07000093,Ceredigion Preseli,https://tacticalvote.co.uk/#CeredigionPreseli,Plaid Cymru
+W07000094,Clwyd East,https://tacticalvote.co.uk/#ClwydEast,Labour
+W07000095,Clwyd North,https://tacticalvote.co.uk/#ClwydNorth,Labour
+W07000096,Dwyfor Meirionnydd,https://tacticalvote.co.uk/#DwyforMeirionnydd,Any
+W07000097,Gower,https://tacticalvote.co.uk/#Gower,Labour
+W07000098,Llanelli,https://tacticalvote.co.uk/#Llanelli,Labour
+W07000099,Merthyr Tydfil and Aberdare,https://tacticalvote.co.uk/#MerthyrTydfilAberdare,Any
+W07000100,Mid and South Pembrokeshire,https://tacticalvote.co.uk/#MidSouthPembrokeshire,Labour
+W07000101,Monmouthshire,https://tacticalvote.co.uk/#Monmouthshire,Labour
+W07000102,Montgomeryshire and Glyndwr,https://tacticalvote.co.uk/#MontgomeryshireGlyndwr,Labour
+W07000103,Neath and Swansea East,https://tacticalvote.co.uk/#NeathSwanseaEast,Any
+W07000104,Newport East,https://tacticalvote.co.uk/#NewportEast,Labour
+W07000105,Newport West and Islwyn,https://tacticalvote.co.uk/#NewportWestIslwyn,Labour
+W07000106,Pontypridd,https://tacticalvote.co.uk/#Pontypridd,Any
+W07000107,Rhondda and Ogmore,https://tacticalvote.co.uk/#RhonddaOgmore,Any
+W07000108,Swansea West,https://tacticalvote.co.uk/#SwanseaWest,Any
+W07000109,Torfaen,https://tacticalvote.co.uk/#Torfaen,Labour
+W07000110,Vale of Glamorgan,https://tacticalvote.co.uk/#ValeofGlamorgan,Labour
+W07000111,Wrexham,https://tacticalvote.co.uk/#Wrexham,Labour
+W07000112,Ynys Mï¿½n,https://tacticalvote.co.uk/#YnysMn,TBC Labour or Plaid Cymru

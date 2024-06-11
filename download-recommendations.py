@@ -90,6 +90,16 @@ class TacticalVoteCoUkDownloader:
         return response.text
 
     @staticmethod
+    def normalize_name(name):
+        # Remove accented characters entirely
+        name = re.sub(r'[^\x00-\x7F]+', '', name)
+        # Remove the word "and"
+        name = re.sub(r'\band\b', '', name, flags=re.IGNORECASE)
+        # Remove spaces and punctuation
+        name = re.sub(r'[\s\W_]+', '', name)
+        return name
+
+    @staticmethod
     def process_csv(csv_data):
         results = []
         reader = csv.DictReader(csv_data.splitlines())
@@ -97,15 +107,17 @@ class TacticalVoteCoUkDownloader:
         for row in reader:
             code = row['id']
             constituency_name = row['Constituency']
+            normalized_name = TacticalVoteCoUkDownloader.normalize_name(row['Constituency'])
+            source_url = f'https://tacticalvote.co.uk/#{normalized_name}'
             recommendation = row['Vote For']
-            results.append([code, constituency_name, recommendation])
+            results.append([code, constituency_name, source_url, recommendation])
 
         return results
 
     def write_csv(self, data):
         with open(self.output_file, mode='w', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow(['Code', 'Constituency name', 'Recommendation'])
+            writer.writerow(['Code', 'Constituency name', 'Source URL', 'Recommendation'])
             writer.writerows(data)
 
 """
@@ -178,10 +190,10 @@ if __name__ == '__main__':
     # checker1 = TacticalDotVoteChecker(constituencies_file_path, 'data/tactical.vote.csv')
     # checker1.process_constituencies()
 
-    # checker2 = TacticalVoteCoUkDownloader('data/tacticalvote.co.uk.csv')
-    # checker2.execute()
+    checker2 = TacticalVoteCoUkDownloader('data/tacticalvote.co.uk.csv')
+    checker2.execute()
 
-    checker3 = StopTheToriesVoteChecker(constituencies_file_path, 'data/stopthetories.csv')
-    checker3.process_constituencies()
+    # checker3 = StopTheToriesVoteChecker(constituencies_file_path, 'data/stopthetories.csv')
+    # checker3.process_constituencies()
 
 
