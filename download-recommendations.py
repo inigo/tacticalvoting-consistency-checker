@@ -79,7 +79,7 @@ class TacticalDotVoteChecker:
                 time.sleep(2)
 
     def write_result(self, result):
-        with open(self.output_file, mode='a', newline='') as output_file:
+        with open(self.output_file, mode='a', newline='', encoding='utf-8') as output_file:
             writer = csv.writer(output_file)
             writer.writerow(result)
 
@@ -149,7 +149,7 @@ class StopTheToriesVoteChecker:
         self.output_file = output_file
         self.headers = { 'User-Agent': user_agent }
 
-        with open(self.output_file, mode='w', newline='') as output_file:
+        with open(self.output_file, mode='w', newline='', encoding='utf-8') as output_file:
             writer = csv.writer(output_file)
             writer.writerow(['Code', 'Constituency name', 'Source URL', 'Recommendation'])
 
