@@ -180,8 +180,17 @@ class StopTheToriesVoteChecker:
         response = requests.get(url, headers=self.headers)
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
-            recommendation_div = soup.find('div', class_='party')
+            if soup.find('div', class_='party-heart'):
+                return "Any"
 
+            party_none_div = soup.find('div', class_='party-none')
+            if party_none_div:
+                descendants = party_none_div.find_all('span', class_=lambda c: c and c.startswith('party-'))
+                if descendants:
+                    return ' or '.join([self.normalize_recommendation(desc.get('class')[0].split('-')[1]) for desc in descendants])
+                return "TBC"
+
+            recommendation_div = soup.find('div', class_='party')
             if recommendation_div:
                 classes = recommendation_div.get('class', [])
                 # Find the class that starts with 'party-'
@@ -202,17 +211,17 @@ class StopTheToriesVoteChecker:
                 constituency_name = row['Constituency name']
                 normalized_name = self.normalize_name(constituency_name)
 
-                recommendation = self.get_recommendation(normalized_name)
+                recommendation = self.normalize_recommendation(self.get_recommendation(normalized_name))
                 source_url = f'https://stopthetories.vote/parl/{normalized_name}'
                 print(f"Retrieved {recommendation} from {source_url} for {constituency_name}")
                 self.write_result([code, constituency_name, source_url, recommendation])
 
                 # Wait for 2 seconds to respect the server
-                time.sleep(2)
+                time.sleep(1)
 
 
     def write_result(self, result):
-        with open(self.output_file, mode='a', newline='') as output_file:
+        with open(self.output_file, mode='a', newline='', encoding='utf-8') as output_file:
             writer = csv.writer(output_file)
             writer.writerow(result)
 
@@ -222,11 +231,11 @@ if __name__ == '__main__':
 
     # checker1 = TacticalDotVoteChecker(constituencies_file_path, 'data/tactical.vote.csv')
     # checker1.process_constituencies()
+    #
+    # checker2 = TacticalVoteCoUkDownloader('data/tacticalvote.co.uk.csv')
+    # checker2.execute()
 
-    checker2 = TacticalVoteCoUkDownloader('data/tacticalvote.co.uk.csv')
-    checker2.execute()
-
-    # checker3 = StopTheToriesVoteChecker(constituencies_file_path, 'data/stopthetories.csv')
-    # checker3.process_constituencies()
+    checker3 = StopTheToriesVoteChecker(constituencies_file_path, 'data/stopthetories.csv')
+    checker3.process_constituencies()
 
 
